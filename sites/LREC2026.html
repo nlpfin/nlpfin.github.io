@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>From Shared Tasks to Benchmark Datasets: Lessons from NTCIR’s 26-Year Journey - LREC 2026 Tutorial</title>
+   
+   
     <style>
         :root {
             --primary-color: #2c3e50;
@@ -118,6 +120,12 @@
         .presenter-card:hover {
             transform: translateY(-5px);
             box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+        
+        .disabled-btn {
+            background-color: #bfc5ca;
+            cursor: not-allowed;
+            opacity: 0.85;
         }
 
         .presenter-img {
@@ -271,14 +279,53 @@
         </div>
     </section>
 
-    <section id="materials">
-        <h2>Tutorial Materials</h2>
-        <div class="material-box">
-            <h3>Slides and Resources</h3>
-            <p>The materials for this tutorial will be available here closer to the conference date.</p>
-            <span class="btn-disabled">Download Link (Coming Soon)</span>
-        </div>
-    </section>
+        <section id="materials">
+            <h2>Tutorial Materials</h2>
+        
+            <div class="presenters-grid">
+        
+                <!-- Opening -->
+                <div class="presenter-card">
+                    <h3>Opening</h3>
+                    <p>Introduction and overview of the tutorial.</p>
+                    <a href="https://haalab.github.io/slides/LREC2026/0_Tutorial.pdf" target="_blank" class="material-btn">Download Slides</a>
+                </div>
+        
+                <!-- Part 1 
+                <div class="presenter-card">
+                    <h3>Part 1: NTCIR History and Test Collection Development</h3>
+                    <p>Presented by Noriko Kando</p>
+                    <a href="" target="_blank" class="material-btn">Download Slides</a>
+                </div>
+                -->
+        
+        
+                 <!-- Part 1 -->
+                <div class="presenter-card">
+                    <h3>Part 1: NTCIR History and Test Collection Development</h3>
+                    <p>Presented by Noriko Kando</p>
+                
+                    <span class="material-btn disabled-btn">
+                        Slides Coming Soon
+                    </span>
+                </div>
+
+                <!-- Part 2 -->
+                <div class="presenter-card">
+                    <h3>Part 2: Participants, Experiments, and Key Findings</h3>
+                    <p>Presented by Makoto P. Kato</p>
+                    <a href="https://haalab.github.io/slides/LREC2026/2_Tutorial-Makoto.pdf" target="_blank" class="material-btn">Download Slides</a>
+                </div>
+        
+                <!-- Part 3 -->
+                <div class="presenter-card">
+                    <h3>Part 3: Organizing Evaluation Campaigns and Dataset Sharing</h3>
+                    <p>Presented by Chung-Chi Chen</p>
+                    <a href="https://haalab.github.io/slides/LREC2026/3_Tutorial-Chung-Chi.pdf" target="_blank" class="material-btn">Download Slides</a>
+                </div>
+        
+            </div>
+        </section>
 
     <footer>
         <p>LREC 2026, Palma de Mallorca, Spain.</p>
