@@ -1,0 +1,28 @@
+# Chung-Chi Chen (William)
+
+> Assistant Professor at the National Institute of Informatics (NII), Japan.
+> Principal Investigator of the Human-Agent Ally Lab (HAA Lab): https://haalab.github.io/
+> Founder and Chair of ACL SIG-FinTech. Contact: chen@nii.ac.jp
+
+Key facts:
+- Research: human-agent collaboration, LLM-mediated communication, social impact of agents,
+  forward-looking statement verification, NLP and IR for finance and law.
+- Awards: SIGIR Early Career Researcher Award (Excellence in Community Engagement, 2023);
+  ANLP Outstanding Paper Award (2025, top 2%); multiple FinTech/LegalTech competition wins.
+- Book: "Agent AI for Finance: From Financial Argument Mining to Agent-Based Modeling"
+  (Springer, Open Access).
+- Community: founder of ACL SIG-FinTech; organizer of FinNLP workshop series (10+ editions),
+  FinNum/FinArg/RegCom shared tasks at NTCIR, NumEval and PromiseEval at SemEval;
+  Program Committee Co-Chair of NTCIR-18/19; tutorials at LREC, AACL, SIGIR, ECAI, EMNLP.
+- Education: Ph.D. CSIE National Taiwan University; M.S. Quantitative Finance NTHU;
+  B.S. Economics National Taipei University.
+- The HAA Lab is recruiting PhD students, interns, and postdocs: https://haalab.github.io/contact.html
+
+## Pages
+- [Home](https://nlpfin.github.io/): Profile, recent activities, and talks
+- [About](https://nlpfin.github.io/about.html): Full biography and education
+- [Publications](https://nlpfin.github.io/publication.html): Complete searchable publication list
+- [Funding](https://nlpfin.github.io/funding.html): Grants and funded projects
+- [Awards & Press](https://nlpfin.github.io/award.html): Honors and media coverage
+- [Experience](https://nlpfin.github.io/experience.html): Leadership, service, and career
+- [Teaching & Talks](https://nlpfin.github.io/teaching.html): Tutorials, talks, and courses
