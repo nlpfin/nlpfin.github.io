@@ -2,6 +2,42 @@ const PUBLICATIONS = [{"x": "Chung-Chi Chen , and Hiroya Takamura. 2025. Agent A
 
 PUBLICATIONS.unshift(
   {
+    "x": "Yi-Ting Chiu and Chung-Chi Chen. 2026. Faithful to the Frame: Source-Framing Propagation in LLM-Agent Decision Workflows. In Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP'26).",
+    "y": "2026",
+    "s": "Latest",
+    "l": {}
+  },
+  {
+    "x": "Rui He, Jianhua Yang, Tomoki Kera, Atsushi Keyaki, Anaïs Lhuissier, Juyeon Kang, Min-Yuh Day, Guan-Bo Yang, Hsin-Hsi Chen, Dittaya Wanvarie, Yongjae Lee, Suhwan Park, Yuriko Nakao, Chung-Chi Chen, and Yohei Seki. 2026. MM-Compliance: A Multilingual Multimodal Dataset for Sustainability Compliance Auditing. In Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP'26).",
+    "y": "2026",
+    "s": "Latest",
+    "l": {}
+  },
+  {
+    "x": "You-Mei Huang, Chung-Chi Chen, and An-Zi Yen. 2026. PersonaEdit: Representative Sample Selection for Personalized Model Editing. In Findings of the Association for Computational Linguistics: EMNLP 2026.",
+    "y": "2026",
+    "s": "Latest",
+    "l": {}
+  },
+  {
+    "x": "Yi-Ting Chiu and Chung-Chi Chen. 2026. Faithful to the Frame: Source-Framing Propagation in LLM-Agent Decision Workflows. In Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP'26).",
+    "y": "2026",
+    "s": "Conference",
+    "l": {}
+  },
+  {
+    "x": "Rui He, Jianhua Yang, Tomoki Kera, Atsushi Keyaki, Anaïs Lhuissier, Juyeon Kang, Min-Yuh Day, Guan-Bo Yang, Hsin-Hsi Chen, Dittaya Wanvarie, Yongjae Lee, Suhwan Park, Yuriko Nakao, Chung-Chi Chen, and Yohei Seki. 2026. MM-Compliance: A Multilingual Multimodal Dataset for Sustainability Compliance Auditing. In Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP'26).",
+    "y": "2026",
+    "s": "Conference",
+    "l": {}
+  },
+  {
+    "x": "You-Mei Huang, Chung-Chi Chen, and An-Zi Yen. 2026. PersonaEdit: Representative Sample Selection for Personalized Model Editing. In Findings of the Association for Computational Linguistics: EMNLP 2026.",
+    "y": "2026",
+    "s": "Conference",
+    "l": {}
+  },
+  {
     "x": "Chung-Chi Chen, Ichiro Kobayashi, Yusuke Miyao, and Hiroya Takamura. 2026. Can Frontier LLMs Capture $40 Billion in Supply Chain Value? In Proceedings of The 35th ACM International Conference on Information and Knowledge Management (CIKM'26).",
     "y": "2026",
     "s": "Latest",
