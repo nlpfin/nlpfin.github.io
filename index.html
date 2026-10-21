@@ -6,38 +6,39 @@
   <title>Chung-Chi Chen | Assistant Professor, NII — NLP, Human-Agent Collaboration &amp; FinTech</title>
   <meta name="description" content="Chung-Chi Chen (William) is an Assistant Professor at the National Institute of Informatics, Japan, PI of the Human-Agent Ally Lab, and founder of ACL SIG-FinTech. Research on human-agent collaboration, LLM-mediated communication, and NLP for finance and law.">
   <meta name="author" content="Chung-Chi Chen">
-  <link rel="canonical" href="https://nlpfin.github.io/">
-  <link rel="icon" type="image/png" href="images/haalab_logo.png">
+  <link rel="canonical" href="https://nlpfin.com/">
+  <link rel="icon" type="image/svg+xml" href="images/haa-lab-logo.svg">
 
   <meta property="og:site_name" content="Chung-Chi Chen">
   <meta property="og:title" content="Chung-Chi Chen | Assistant Professor, NII — NLP, Human-Agent Collaboration &amp; FinTech">
   <meta property="og:description" content="Chung-Chi Chen (William) is an Assistant Professor at the National Institute of Informatics, Japan, PI of the Human-Agent Ally Lab, and founder of ACL SIG-FinTech. Research on human-agent collaboration, LLM-mediated communication, and NLP for finance and law.">
   <meta property="og:type" content="profile">
-  <meta property="og:url" content="https://nlpfin.github.io/">
-  <meta property="og:image" content="https://nlpfin.github.io/images/head.jpg">
+  <meta property="og:url" content="https://nlpfin.com/">
+  <meta property="og:image" content="https://nlpfin.com/images/head.jpg">
   <meta name="twitter:card" content="summary">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/site.css">
+
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "Person",
-    "@id": "https://nlpfin.github.io/#person",
+    "@id": "https://nlpfin.com/#person",
     "name": "Chung-Chi Chen",
     "alternateName": "William Chen",
     "givenName": "Chung-Chi",
     "familyName": "Chen",
     "jobTitle": "Assistant Professor",
     "worksFor": { "@type": "ResearchOrganization", "name": "National Institute of Informatics", "url": "https://www.nii.ac.jp/en/" },
-    "url": "https://nlpfin.github.io/",
-    "image": "https://nlpfin.github.io/images/head.jpg",
+    "url": "https://nlpfin.com/",
+    "image": "https://nlpfin.com/images/head.jpg",
     "email": "chen@nii.ac.jp",
     "description": "Assistant Professor at the National Institute of Informatics, Japan. Principal Investigator of the Human-Agent Ally Lab (HAA Lab). Founder of ACL SIG-FinTech. Research on human-agent collaboration, LLM-mediated communication, and NLP for finance and law.",
     "sameAs": [
-      "https://haalab.github.io/",
+      "https://haalab.org/",
       "https://scholar.google.com.tw/citations?user=sJwWSg8AAAAJ",
       "https://sigfintech.github.io/"
     ],
@@ -53,19 +54,21 @@
     "knowsAbout": ["Natural Language Processing", "Human-Agent Collaboration", "Financial NLP", "Information Retrieval", "Large Language Models", "Argument Mining"]
   }
   </script>
+  <link rel="stylesheet" href="design/system.css">
+  <link rel="stylesheet" href="design/pi.css">
+  <script defer src="design/interaction.js"></script>
 </head>
-<body>
+<body class="haa-2026 site-pi" data-page="index" data-layout="core">
   <nav class="nav" aria-label="Main navigation">
     <div class="container nav-container">
       <a href="index.html" class="nav-logo">
-        <img src="images/haalab_logo.png" alt="HAA Lab logo" class="nav-logo-img">
         <div class="nav-logo-text">
           <div class="nav-title">Chung-Chi Chen</div>
           <div class="nav-subtitle">NII · HAA Lab</div>
         </div>
       </a>
       <div class="nav-links">
-        <a href="index.html" class="nav-link">Home</a>
+        <a href="index.html" class="nav-link active" aria-current="page">Home</a>
         <a href="about.html" class="nav-link">About</a>
         <a href="publication.html" class="nav-link">Publications</a>
         <a href="funding.html" class="nav-link">Funding</a>
@@ -79,7 +82,7 @@
     </div>
     <div class="mobile-menu" id="mobile-menu">
       <div class="container mobile-menu-links">
-        <a href="index.html" class="nav-link">Home</a>
+        <a href="index.html" class="nav-link active" aria-current="page">Home</a>
         <a href="about.html" class="nav-link">About</a>
         <a href="publication.html" class="nav-link">Publications</a>
         <a href="funding.html" class="nav-link">Funding</a>
@@ -90,24 +93,27 @@
     </div>
   </nav>
 
-  <header class="profile-hero">
-    <canvas id="hero-canvas" class="hero-canvas" aria-hidden="true"></canvas>
+  <header class="profile-hero profile-hero-field">
+    <div class="shared-light" aria-hidden="true">
+      <span class="light-fold light-fold-a"></span>
+      <span class="light-fold light-fold-b"></span>
+    </div>
     <div class="container">
       <div class="profile-grid">
         <div class="profile-photo-wrap">
           <img src="images/head.jpg" alt="Portrait of Dr. Chung-Chi Chen" class="profile-photo">
         </div>
-        <div>
-          <span class="hero-eyebrow"><span class="pulse-dot"></span>NLP · Human-Agent Collaboration · FinTech</span>
-          <h1 class="profile-name">Chung-Chi <span class="hero-title-gradient" style="display:inline;">Chen</span></h1>
+        <div class="profile-copy">
+          <span class="hero-eyebrow">NLP · Human-Agent Collaboration · FinTech</span>
+          <h1 class="profile-name">Chung-Chi <em class="hero-title-gradient" style="display:inline;">Chen</em></h1>
           <div class="profile-roles">
             <p><strong>Assistant Professor</strong>, National Institute of Informatics, Japan</p>
-            <p><strong>Principal Investigator</strong>, <a href="https://haalab.github.io/">Human-Agent Ally Lab (HAA Lab)</a></p>
+            <p><strong>Principal Investigator</strong>, <a href="https://haalab.org/index.html">Human-Agent Ally Lab (HAA Lab)</a></p>
             <p><strong>Chair</strong>, ACL SIG-FinTech (Founder, elected 2026–2028)</p>
           </div>
           <div class="social-row">
-            <a class="social-btn" href="mailto:chen@nii.ac.jp">✉️ Email</a>
-            <a class="social-btn" href="https://scholar.google.com.tw/citations?user=sJwWSg8AAAAJ" target="_blank" rel="noopener">🎓 Google Scholar</a>
+            <a class="social-btn" href="mailto:chen@nii.ac.jp">Email</a>
+            <a class="social-btn" href="https://scholar.google.com.tw/citations?user=sJwWSg8AAAAJ" target="_blank" rel="noopener">Google Scholar</a>
           </div>
         </div>
       </div>
@@ -123,7 +129,7 @@
             <p>We research human-agent teaming, LLM-based agents, and the societal impact of AI —
             and we're recruiting PhD students, research interns, and postdoctoral fellows.</p>
           </div>
-          <a href="https://haalab.github.io/" target="_blank" rel="noopener" class="btn btn-light">Visit HAA Lab <svg viewBox="0 0 24 24"><path d="M5 12h14"></path><path d="m12 5 7 7-7 7"></path></svg></a>
+          <a href="https://haalab.org/index.html" target="_blank" rel="noopener" class="btn btn-light">Visit HAA Lab <svg viewBox="0 0 24 24"><path d="M5 12h14"></path><path d="m12 5 7 7-7 7"></path></svg></a>
         </div>
       </div>
     </section>
@@ -132,16 +138,16 @@
       <div class="container">
         <div class="grid-2">
           <article class="card card-hover reveal" style="padding: 2.2rem;">
-            <span class="pillar-badge">📖 Book — Open Access</span>
+            <span class="pillar-badge">Book — Open Access</span>
             <h2 class="font-outfit" id="book-title" style="font-size: 1.5rem; font-weight: 800; margin-bottom: .6rem;">Agent AI for Finance</h2>
             <p style="color: var(--ink-soft); margin-bottom: 1.2rem;">From Financial Argument Mining to Agent-Based Modeling — a comprehensive treatment of how agentic AI reshapes financial analysis. Published by Springer.</p>
             <a href="https://link.springer.com/book/9783031946868" target="_blank" rel="noopener" class="learn-link">Read it free (Open Access) <svg viewBox="0 0 24 24"><path d="M5 12h14"></path><path d="m12 5 7 7-7 7"></path></svg></a>
           </article>
           <article class="card card-hover reveal reveal-d1" style="padding: 2.2rem;">
-            <span class="pillar-badge">🤝 Join Us</span>
+            <span class="pillar-badge">Join Us</span>
             <h2 class="font-outfit" style="font-size: 1.5rem; font-weight: 800; margin-bottom: .6rem;">Work With Me</h2>
             <p style="color: var(--ink-soft); margin-bottom: 1.2rem;">I welcome applications from PhD students, research interns, and postdoctoral fellows interested in human-agent research, NLP, and high-stakes decision-making.</p>
-            <a href="https://haalab.github.io/contact.html" target="_blank" rel="noopener" class="learn-link">Open positions at HAA Lab <svg viewBox="0 0 24 24"><path d="M5 12h14"></path><path d="m12 5 7 7-7 7"></path></svg></a>
+            <a href="https://haalab.org/contact.html" target="_blank" rel="noopener" class="learn-link">Open positions at HAA Lab <svg viewBox="0 0 24 24"><path d="M5 12h14"></path><path d="m12 5 7 7-7 7"></path></svg></a>
           </article>
         </div>
       </div>
@@ -169,6 +175,7 @@
           <div class="reveal reveal-d1">
             <h2 class="font-outfit" style="font-size: 1.6rem; font-weight: 800; margin-bottom: 1.4rem;">Recent Talks</h2>
             <div class="timeline">
+              <div class="timeline-item"><p>How Agent-Mediated Information Shapes Decisions? — MPI-SWS, 2026</p></div>
               <div class="timeline-item"><p>Beyond 2030: Turning Sustainability Commitments into Verifiable and Achievable Outcomes — <a href="https://nlp4climate.github.io/" target="_blank" rel="noopener">ClimateNLP</a> at EMNLP-2026</p></div>
               <div class="timeline-item"><p>Verifying and Auditing Forward-Looking Statements — IRAI Workshop, ECIR-2026</p></div>
               <div class="timeline-item"><p>From Shared Tasks to Benchmark Datasets: Lessons from NTCIR&#x27;s 26-Year Journey — LREC 2026 Tutorial <a href="sites/LREC2026.html" target="_blank" rel="noopener">↗</a></p></div>
@@ -215,7 +222,7 @@
           <h3>Connect</h3>
           <ul class="footer-links">
             <li><a href="mailto:chen@nii.ac.jp">chen@nii.ac.jp</a></li>
-            <li><a href="https://haalab.github.io/" target="_blank" rel="noopener">HAA Lab</a></li>
+            <li><a href="https://haalab.org/index.html" target="_blank" rel="noopener">HAA Lab</a></li>
             <li><a href="https://scholar.google.com.tw/citations?user=sJwWSg8AAAAJ" target="_blank" rel="noopener">Google Scholar</a></li>
           </ul>
         </div>
