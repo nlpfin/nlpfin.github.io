@@ -4,7 +4,7 @@ const PUBLICATIONS = [
     "y": "2026",
     "s": "Latest",
     "l": {
-      "pdf": "https://arxiv.org/abs/2610.17723"
+      "Paper": "https://arxiv.org/abs/2610.17723"
     }
   },
   {
@@ -12,7 +12,7 @@ const PUBLICATIONS = [
     "y": "2026",
     "s": "Workshop",
     "l": {
-      "pdf": "https://ojs.aaai.org/index.php/AAAI/article/view/42226"
+      "Paper": "https://ojs.aaai.org/index.php/AAAI/article/view/42226"
     }
   },
   {
@@ -37,7 +37,9 @@ const PUBLICATIONS = [
     "x": "You-Mei Huang, Chung-Chi Chen, and An-Zi Yen. 2026. PersonaEdit: Representative Sample Selection for Personalized Model Editing. In Findings of the Association for Computational Linguistics: EMNLP 2026.",
     "y": "2026",
     "s": "Latest",
-    "l": {}
+    "l": {
+      "Paper": "https://arxiv.org/abs/2608.27816"
+    }
   },
   {
     "x": "Yu-Yu Chang, Chung-Chi Chen, and Ming-Hung Wang. 2026. Linguistic Cues in Political Debates: Lexical Choices and Evaluative Framing in GPT-Generated Commentary. In Findings of the Association for Computational Linguistics: AACL-IJCNLP 2026.",
@@ -61,7 +63,9 @@ const PUBLICATIONS = [
     "x": "You-Mei Huang, Chung-Chi Chen, and An-Zi Yen. 2026. PersonaEdit: Representative Sample Selection for Personalized Model Editing. In Findings of the Association for Computational Linguistics: EMNLP 2026.",
     "y": "2026",
     "s": "Conference",
-    "l": {}
+    "l": {
+      "Paper": "https://arxiv.org/abs/2608.27816"
+    }
   },
   {
     "x": "Chung-Chi Chen, Ichiro Kobayashi, Yusuke Miyao, and Hiroya Takamura. 2026. Can Frontier LLMs Capture $40 Billion in Supply Chain Value? In Proceedings of The 35th ACM International Conference on Information and Knowledge Management (CIKM'26).",
@@ -92,7 +96,7 @@ const PUBLICATIONS = [
     "y": "2025",
     "s": "Book",
     "l": {
-      "Open Access": "https://link.springer.com/book/9783031946868?srsltid=AfmBOooERxWxnqlmRhTs4TwamOrCxhAECmi786btXJ8WIIkR3zD9V9gd",
+      "Open Access": "https://link.springer.com/book/10.1007/978-3-031-94687-5",
       "ECAI-2024 Tutorial": "https://sites.google.com/view/finagent/home"
     }
   },
@@ -110,7 +114,7 @@ const PUBLICATIONS = [
     "y": "2026",
     "s": "Preprint",
     "l": {
-      "pdf": "https://arxiv.org/abs/2610.17723"
+      "Paper": "https://arxiv.org/abs/2610.17723"
     }
   },
   {
@@ -118,20 +122,23 @@ const PUBLICATIONS = [
     "y": "2026",
     "s": "Latest",
     "l": {
-      "pdf": "https://arxiv.org/abs/2607.05999"
+      "Paper": "https://arxiv.org/abs/2607.05999"
     }
   },
   {
     "x": "Wataru Hirota, Tomoki Taniguchi, Tomoko Ohkuma, Kosuke Takahashi, Takahiro Omi, Kosuke Arima, Takuto Asakura, Chung-Chi Chen , Tatsuya Ishigaki. 2026. Aggregate vs. Personalized Judges in Business Idea Evaluation: Evidence from Expert Disagreement. In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics - Industry Track (ACL'26) pdf",
     "y": "2026",
     "s": "Conference",
-    "l": {}
+    "l": {
+      "Paper": "https://aclanthology.org/2026.acl-industry.61/"
+    }
   },
   {
     "x": "Yu-Yu Chang, Huan-Wen Ho, Chung-Chi Chen , Ming-Hung Wang. 2026. DR-CUP: A Dataset on Real-time Commentary in U.S. Presidential Debates. In Proceedings of the International Conference on Language Resources and Evaluation (LREC'26) pdf dataset",
     "y": "2026",
     "s": "Conference",
     "l": {
+      "Paper": "https://aclanthology.org/2026.lrec-1.772/",
       "dataset": "https://sites.google.com/view/genchal2026"
     }
   },
@@ -139,14 +146,16 @@ const PUBLICATIONS = [
     "x": "Bo-Wei Chen, Chung-Chi Chen , An-Zi Yen. 2026. Confidence-Driven Multi-Scale Model Selection for Cost-Effective NLU. Findings of the Association for Computational Linguistics: EACL 2026 pdf",
     "y": "2026",
     "s": "Conference",
-    "l": {}
+    "l": {
+      "Paper": "https://aclanthology.org/2026.findings-eacl.90/"
+    }
   },
   {
     "x": "Yuyang Cheng, Xingwei Qu, Tomas Goldsack, Chenghua Lin, Chung-Chi Chen . 2025. Observing Micromotives and Macrobehavior of Large Language Models. In Proceedings of the International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL) . pdf",
     "y": "2025",
     "s": "Conference",
     "l": {
-      "pdf": "https://arxiv.org/abs/2412.10428"
+      "Paper": "https://aclanthology.org/2025.ijcnlp-long.69/"
     }
   },
   {
@@ -154,7 +163,7 @@ const PUBLICATIONS = [
     "y": "2025",
     "s": "Conference",
     "l": {
-      "pdf": "https://arxiv.org/abs/2409.17417"
+      "Paper": "https://aclanthology.org/2025.ijcnlp-long.71/"
     }
   },
   {
@@ -162,7 +171,7 @@ const PUBLICATIONS = [
     "y": "2025",
     "s": "Conference",
     "l": {
-      "pdf": "https://arxiv.org/abs/2411.04473v1"
+      "Paper": "https://aclanthology.org/2025.emnlp-main.1028/"
     }
   },
   {
@@ -170,21 +179,23 @@ const PUBLICATIONS = [
     "y": "2025",
     "s": "Conference",
     "l": {
-      "pdf": "https://drive.google.com/file/d/1gxRZevwwfdcqpXWPscfwYVOWwX7hU5Wn/view?usp=sharing"
+      "Paper": "https://aclanthology.org/2025.inlg-genchal.2/"
     }
   },
   {
     "x": "Yung-Yu Shih, Yun-Nung Chen, Chung-Chi Chen . 2025. Company-Specific Knowledge Matters: Retrieval-Augmented Generation for Earnings Call Answer Rehearsal. In Proceedings of The 34th ACM International Conference on Information and Knowledge Management (CIKM'25). pdf",
     "y": "2025",
     "s": "Conference",
-    "l": {}
+    "l": {
+      "Paper": "https://doi.org/10.1145/3746252.3760814"
+    }
   },
   {
     "x": "Yu-Min Tseng, Wei-Lin Chen, Chung-Chi Chen , Hsin-Hsi Chen. 2025. Evaluating Large Language Models as Expert Annotators. In Proceedings of Second Conference on Language Modeling (COLM'25). pdf",
     "y": "2025",
     "s": "Conference",
     "l": {
-      "pdf": "https://arxiv.org/abs/2508.07827"
+      "Paper": "https://arxiv.org/abs/2508.07827"
     }
   },
   {
@@ -192,7 +203,7 @@ const PUBLICATIONS = [
     "y": "2025",
     "s": "Conference",
     "l": {
-      "pdf": "https://arxiv.org/abs/2409.16710"
+      "Paper": "https://aclanthology.org/2025.findings-naacl.22/"
     }
   },
   {
@@ -200,7 +211,7 @@ const PUBLICATIONS = [
     "y": "2025",
     "s": "Conference",
     "l": {
-      "pdf": "https://arxiv.org/abs/2409.18677"
+      "Paper": "https://doi.org/10.1145/3701716.3715524"
     }
   },
   {
@@ -208,21 +219,23 @@ const PUBLICATIONS = [
     "y": "2025",
     "s": "Conference",
     "l": {
-      "pdf": "https://arxiv.org/abs/2409.17419"
+      "Paper": "https://arxiv.org/abs/2409.17419"
     }
   },
   {
     "x": "Hsiu-Hung Lee, Chung-Chi Chen , An-Zi Yen. 2025. RAG-Enhanced Evidence Recommendation in Financial Legal Resolutions. In Companion Proceedings of the Web Conference 2025 (WWW'25). pdf",
     "y": "2025",
     "s": "Conference",
-    "l": {}
+    "l": {
+      "Paper": "https://doi.org/10.1145/3701716.3715520"
+    }
   },
   {
     "x": "Tomas Goldsack, Yang Wang, Chenghua Lin, and Chung-Chi Chen . 2025. From Facts to Insights: A Study on the Generation and Evaluation of Analytical Reports for Deciphering Earnings Calls. Proceedings of the 31st International Conference on Computational Linguistics (COLING-2025). pdf",
     "y": "2025",
     "s": "Conference",
     "l": {
-      "pdf": "https://arxiv.org/abs/2410.01039"
+      "Paper": "https://aclanthology.org/2025.coling-main.705/"
     }
   },
   {
@@ -230,27 +243,31 @@ const PUBLICATIONS = [
     "y": "2025",
     "s": "Conference",
     "l": {
-      "pdf": "https://arxiv.org/abs/2410.01169"
+      "Paper": "https://aclanthology.org/2025.coling-main.718/"
     }
   },
   {
     "x": "Chung-Chi Chen , Hiroya Takamura, Ichiro Kobayashi and Yusuke Miyao. 2024. Professionalism-Aware Pre-Finetuning for Profitability Ranking. In Proceedings of The 33rd ACM International Conference on Information and Knowledge Management (CIKM'24) pdf (Acceptance Rate: 26.76%, 141/527)",
     "y": "2024",
     "s": "Conference",
-    "l": {}
+    "l": {
+      "Paper": "https://doi.org/10.1145/3627673.3679981"
+    }
   },
   {
     "x": "Hsiu-Hsuan Yeh, Yu-Lieh Huang, Ziho Park, and Chung-Chi Chen . 2024. Automation of Text-Based Economic Indicator Construction: A Pilot Exploration on Economic Policy Uncertainty Index. In Proceedings of The 33rd ACM International Conference on Information and Knowledge Management (CIKM'24) pdf (Acceptance Rate: 26.76%, 141/527)",
     "y": "2024",
     "s": "Conference",
-    "l": {}
+    "l": {
+      "Paper": "https://doi.org/10.1145/3627673.3679877"
+    }
   },
   {
     "x": "Chin-Yi Lin, Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2024. Argument-Based Sentiment Analysis on Forward-Looking Statements. In Findings of the Association for Computational Linguistics: ACL 2024 . pdf",
     "y": "2024",
     "s": "Conference",
     "l": {
-      "pdf": "papers/ACL24-Argument.pdf"
+      "Paper": "https://aclanthology.org/2024.findings-acl.820/"
     }
   },
   {
@@ -258,7 +275,7 @@ const PUBLICATIONS = [
     "y": "2024",
     "s": "Conference",
     "l": {
-      "pdf": "papers/ACL24-DBQR-QA.pdf"
+      "Paper": "https://aclanthology.org/2024.findings-acl.900/"
     }
   },
   {
@@ -266,7 +283,7 @@ const PUBLICATIONS = [
     "y": "2024",
     "s": "Conference",
     "l": {
-      "pdf": "https://aclanthology.org/2024.naacl-short.53/",
+      "Paper": "https://aclanthology.org/2024.naacl-short.53/",
       "data": "https://drive.google.com/file/u/1/d/1WahChtYNj4wYy59gYDkvSThFzgQSN7Zh/view?usp=sharing"
     }
   },
@@ -275,7 +292,7 @@ const PUBLICATIONS = [
     "y": "2024",
     "s": "Conference",
     "l": {
-      "pdf": "https://dl.acm.org/doi/abs/10.1145/3589335.3651539"
+      "Paper": "https://doi.org/10.1145/3589335.3651539"
     }
   },
   {
@@ -283,7 +300,7 @@ const PUBLICATIONS = [
     "y": "2024",
     "s": "Conference",
     "l": {
-      "pdf": "https://arxiv.org/abs/2403.09702"
+      "Paper": "https://doi.org/10.1145/3589335.3651512"
     }
   },
   {
@@ -291,7 +308,7 @@ const PUBLICATIONS = [
     "y": "2024",
     "s": "Conference",
     "l": {
-      "pdf": "https://aclanthology.org/2024.lrec-main.1368/"
+      "Paper": "https://aclanthology.org/2024.lrec-main.1368/"
     }
   },
   {
@@ -299,7 +316,7 @@ const PUBLICATIONS = [
     "y": "2024",
     "s": "Conference",
     "l": {
-      "pdf": "https://arxiv.org/abs/2309.01455",
+      "Paper": "https://aclanthology.org/2024.lrec-main.1078/",
       "NumEval@SemEval-2024 Dataset": "https://sites.google.com/view/numeval/"
     }
   },
@@ -308,7 +325,7 @@ const PUBLICATIONS = [
     "y": "2024",
     "s": "Conference",
     "l": {
-      "pdf": "https://aclanthology.org/2024.lrec-main.898/"
+      "Paper": "https://aclanthology.org/2024.lrec-main.898/"
     }
   },
   {
@@ -316,7 +333,7 @@ const PUBLICATIONS = [
     "y": "2024",
     "s": "Conference",
     "l": {
-      "pdf": "https://aclanthology.org/2024.findings-eacl.92/"
+      "Paper": "https://aclanthology.org/2024.findings-eacl.92/"
     }
   },
   {
@@ -324,7 +341,7 @@ const PUBLICATIONS = [
     "y": "2023",
     "s": "Conference",
     "l": {
-      "pdf": "https://arxiv.org/pdf/2310.14981.pdf"
+      "Paper": "https://aclanthology.org/2023.emnlp-main.54/"
     }
   },
   {
@@ -332,7 +349,7 @@ const PUBLICATIONS = [
     "y": "2023",
     "s": "Conference",
     "l": {
-      "pdf": "papers/SIGIR23.pdf",
+      "Paper": "https://doi.org/10.1145/3539618.3592035",
       "resource": "https://github.com/TTsamurai/PDRSI_public_code"
     }
   },
@@ -341,7 +358,7 @@ const PUBLICATIONS = [
     "y": "2023",
     "s": "Conference",
     "l": {
-      "pdf": "papers/DynamicESG.pdf",
+      "Paper": "https://doi.org/10.1145/3583780.3615118",
       "resource": "https://github.com/ymntseng/DynamicESG/"
     }
   },
@@ -349,14 +366,16 @@ const PUBLICATIONS = [
     "x": "Ming-Xuan Shi, Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2023. Enhancing Volatility Forecasting in Financial Markets: A General Numeral Attachment Dataset for Understanding Earnings Calls. In Proceedings of The 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL'23). pdf (Acceptance Rate: 19.13%, 22/115)",
     "y": "2023",
     "s": "Conference",
-    "l": {}
+    "l": {
+      "Paper": "https://aclanthology.org/2023.ijcnlp-short.5/"
+    }
   },
   {
     "x": "Yi-Ning Juan, Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2023. Generating Multiple Questions from Presentation Transcripts: A Pilot Study on Earnings Conference Calls. In Proceedings of the 16th International Conference on Natural Language Generation (INLG'23) . pdf poster",
     "y": "2023",
     "s": "Conference",
     "l": {
-      "pdf": "papers/MQG-INLG23.pdf",
+      "Paper": "https://aclanthology.org/2023.inlg-main.35/",
       "poster": "posters/INLG23_Poster.pdf"
     }
   },
@@ -365,6 +384,7 @@ const PUBLICATIONS = [
     "y": "2023",
     "s": "Conference",
     "l": {
+      "Paper": "https://aclanthology.org/2023.ijcnlp-demo.2/",
       "demo": "https://demo-cjdp-aifr.herokuapp.com/demo-home",
       "video": "https://drive.google.com/file/d/1i8DYl0mK2ErtlXwGUcNU3wsN8rTszb3W/view"
     }
@@ -374,7 +394,7 @@ const PUBLICATIONS = [
     "y": "2023",
     "s": "Conference",
     "l": {
-      "pdf": "https://aclanthology.org/2023.findings-eacl.4/",
+      "Paper": "https://aclanthology.org/2023.findings-eacl.4/",
       "poster": "posters/EACL2023_numeracy.pdf"
     }
   },
@@ -383,7 +403,7 @@ const PUBLICATIONS = [
     "y": "2023",
     "s": "Conference",
     "l": {
-      "pdf": "https://aclanthology.org/2023.findings-eacl.7/",
+      "Paper": "https://aclanthology.org/2023.findings-eacl.7/",
       "poster": "posters/EACL2023_fakenews.pdf"
     }
   },
@@ -391,14 +411,16 @@ const PUBLICATIONS = [
     "x": "Sohom Ghosh, Sachin Umrao, Chung-Chi Chen , and Sudip Kumar Naskar. 2023. The Mask One At a Time Framework for Detecting the Relationship between Financial Entities. In Proceedings of the 15th Annual Meeting of the Forum for Information Retrieval Evaluation . pdf (Acceptance Rate: 48%)",
     "y": "2023",
     "s": "Conference",
-    "l": {}
+    "l": {
+      "Paper": "https://doi.org/10.1145/3632754.3632756"
+    }
   },
   {
     "x": "Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2021. Evaluating the Rationales of Amateur Investors. In Proceedings of The Web Conference 2021 (WWW'21). pdf slides resource lexicon (Acceptance Rate: 20.6%, 357/1736)",
     "y": "2021",
     "s": "Conference",
     "l": {
-      "pdf": "papers/WWW_2021.pdf",
+      "Paper": "https://doi.org/10.1145/3442381.3449964",
       "slides": "slides/WWW-2021_Rationales_of_Amateur_investor.pdf",
       "resource": "http://nlg.csie.ntu.edu.tw/nlpresource/ICRD/",
       "lexicon": "http://nlg.csie.ntu.edu.tw/nlpresource/FinProLex/"
@@ -409,7 +431,7 @@ const PUBLICATIONS = [
     "y": "2021",
     "s": "Conference",
     "l": {
-      "pdf": "papers/NQuAD_CIKM21.pdf",
+      "Paper": "https://doi.org/10.1145/3459637.3482155",
       "slides": "slides/NQuAD-CIKM-2021_Slides.pdf",
       "resource": "http://nquad.nlpfin.com"
     }
@@ -419,7 +441,7 @@ const PUBLICATIONS = [
     "y": "2021",
     "s": "Conference",
     "l": {
-      "pdf": "papers/ECNum_CIKM21.pdf",
+      "Paper": "https://doi.org/10.1145/3459637.3482089",
       "slides": "slides/ConCall-CIKM-2021_Slides.pdf",
       "resource": "https://drive.google.com/drive/folders/1M8hBAGTGOBTIwticb26Azs2j4oP0d4Oc?usp=sharing"
     }
@@ -429,7 +451,7 @@ const PUBLICATIONS = [
     "y": "2021",
     "s": "Conference",
     "l": {
-      "pdf": "papers/EPU_CIKM21.pdf",
+      "Paper": "https://doi.org/10.1145/3459637.3482075",
       "slides": "slides/EPU-CIKM-2021_Slides.pdf"
     }
   },
@@ -438,7 +460,7 @@ const PUBLICATIONS = [
     "y": "2021",
     "s": "Conference",
     "l": {
-      "pdf": "papers/Retrieving_Implicit_Information_for_Stock_Movement_Prediction___SIGIR_2021.pdf",
+      "Paper": "https://doi.org/10.1145/3404835.3462999",
       "slides": "slides/SIGIR2021_Slides.pdf",
       "poster": "posters/SIGIR2021_Poster.pdf"
     }
@@ -448,7 +470,7 @@ const PUBLICATIONS = [
     "y": "2021",
     "s": "Conference",
     "l": {
-      "pdf": "papers/EMNLP2021.pdf",
+      "Paper": "https://aclanthology.org/2021.emnlp-main.362/",
       "slides": "slides/EMNLP-2021_Slides.pdf"
     }
   },
@@ -457,7 +479,7 @@ const PUBLICATIONS = [
     "y": "2021",
     "s": "Conference",
     "l": {
-      "pdf": "papers/Implicit_Tag_Recognition_EACL_2021.pdf"
+      "Paper": "https://aclanthology.org/2021.eacl-main.122/"
     }
   },
   {
@@ -465,7 +487,7 @@ const PUBLICATIONS = [
     "y": "2021",
     "s": "Conference",
     "l": {
-      "pdf": "papers/Financial_Opinion_Mining_Research_Agenda___ICWSM_2021.pdf"
+      "Paper": "https://ojs.aaai.org/index.php/ICWSM/article/view/18130"
     }
   },
   {
@@ -473,7 +495,7 @@ const PUBLICATIONS = [
     "y": "2021",
     "s": "Conference",
     "l": {
-      "pdf": "papers/ASONAM2021.pdf"
+      "Paper": "https://doi.org/10.1145/3487351.3488358"
     }
   },
   {
@@ -481,7 +503,7 @@ const PUBLICATIONS = [
     "y": "2021",
     "s": "Conference",
     "l": {
-      "pdf": "papers/FinSense_WSDM_Demo_2021.pdf",
+      "Paper": "https://doi.org/10.1145/3437963.3441704",
       "demo": "http://nlg6.csie.ntu.edu.tw/FinSense"
     }
   },
@@ -490,7 +512,7 @@ const PUBLICATIONS = [
     "y": "2021",
     "s": "Conference",
     "l": {
-      "pdf": "papers/Opinion_based_Portfolio_Selection___ICWSM_2021_____.pdf"
+      "Paper": "https://ojs.aaai.org/index.php/ICWSM/article/view/18134"
     }
   },
   {
@@ -498,7 +520,7 @@ const PUBLICATIONS = [
     "y": "2020",
     "s": "Conference",
     "l": {
-      "pdf": "papers/NumClaim.pdf",
+      "Paper": "https://doi.org/10.1145/3340531.3412100",
       "resource": "http://nlg.csie.ntu.edu.tw/nlpresource/NumClaim/",
       "slides": "slides/NumClaim.pdf"
     }
@@ -508,7 +530,7 @@ const PUBLICATIONS = [
     "y": "2020",
     "s": "Conference",
     "l": {
-      "pdf": "papers/FinSoMe.pdf",
+      "Paper": "https://aclanthology.org/2020.lrec-1.749/",
       "resource": "http://nlg.csie.ntu.edu.tw/nlpresource/FinSoMe/"
     }
   },
@@ -517,7 +539,7 @@ const PUBLICATIONS = [
     "y": "2020",
     "s": "Conference",
     "l": {
-      "pdf": "papers/HeadlineGeneration.pdf",
+      "Paper": "https://doi.org/10.1145/3366424.3382676",
       "slides": "slides/Headline_Generation.pdf",
       "poster": "posters/Generate_Headlines.pdf"
     }
@@ -527,7 +549,7 @@ const PUBLICATIONS = [
     "y": "2020",
     "s": "Conference",
     "l": {
-      "pdf": "https://doi.org/10.1145/3366424.3382701"
+      "Paper": "https://doi.org/10.1145/3366424.3382701"
     }
   },
   {
@@ -535,7 +557,7 @@ const PUBLICATIONS = [
     "y": "2019",
     "s": "Conference",
     "l": {
-      "pdf": "https://www.aclweb.org/anthology/P19-1635/",
+      "Paper": "https://aclanthology.org/P19-1635/",
       "resource": "http://nlg.csie.ntu.edu.tw/nlpresource/Numeracy600K/",
       "poster": "posters/Numeracy600K.pdf"
     }
@@ -545,7 +567,7 @@ const PUBLICATIONS = [
     "y": "2019",
     "s": "Conference",
     "l": {
-      "pdf": "https://dl.acm.org/citation.cfm?id=3331361",
+      "Paper": "https://doi.org/10.1145/3331184.3331361",
       "resource": "http://nlg.csie.ntu.edu.tw/nlpresource/NumAttach/",
       "poster": "posters/NumAttach.pdf"
     }
@@ -555,7 +577,7 @@ const PUBLICATIONS = [
     "y": "2019",
     "s": "Conference",
     "l": {
-      "pdf": "https://www.ijcai.org/proceedings/2019/0936.pdf",
+      "Paper": "https://www.ijcai.org/proceedings/2019/936",
       "demo": "https://ntu-nlp.shinyapps.io/crowdview/",
       "poster": "posters/CrowdView.pdf",
       "slides": "slides/CrowdView.pdf"
@@ -566,7 +588,7 @@ const PUBLICATIONS = [
     "y": "2019",
     "s": "Conference",
     "l": {
-      "pdf": "https://dl.acm.org/citation.cfm?id=3314122",
+      "Paper": "https://doi.org/10.1145/3308558.3314122",
       "demo": "http://nlg6.csie.ntu.edu.tw/CrowdPT",
       "poster": "posters/CrowdPT.pdf"
     }
@@ -576,7 +598,7 @@ const PUBLICATIONS = [
     "y": "2019",
     "s": "Conference",
     "l": {
-      "pdf": "https://dl.acm.org/doi/abs/10.1145/3341161.3342945",
+      "Paper": "https://doi.org/10.1145/3341161.3342945",
       "poster": "posters/NextCashtagPrediction.pdf",
       "slides": "slides/NextCashtagPrediction.pdf"
     }
@@ -586,7 +608,7 @@ const PUBLICATIONS = [
     "y": "2018",
     "s": "Conference",
     "l": {
-      "pdf": "https://ieeexplore.ieee.org/abstract/document/8609586",
+      "Paper": "https://doi.org/10.1109/WI.2018.00-97",
       "resource": "http://nlg.csie.ntu.edu.tw/nlpresource/FinNum/",
       "slides": "http://prezi.com/j5-gkeu3jeos/?utm_campaign=share&utm_medium=copy"
     }
@@ -596,7 +618,7 @@ const PUBLICATIONS = [
     "y": "2024",
     "s": "Journal",
     "l": {
-      "pdf": "https://www.sciencedirect.com/science/article/abs/pii/S1059056023003350"
+      "Paper": "https://doi.org/10.1016/j.iref.2023.08.015"
     }
   },
   {
@@ -604,7 +626,7 @@ const PUBLICATIONS = [
     "y": "2019",
     "s": "Journal",
     "l": {
-      "pdf": "http://www.econ.ntu.edu.tw/ter/new/data/new/forthcoming/108-001.pdf"
+      "Paper": "https://doi.org/10.6277/TER.202106_49(2).0004"
     }
   },
   {
@@ -612,7 +634,7 @@ const PUBLICATIONS = [
     "y": "2026",
     "s": "Preprint",
     "l": {
-      "pdf": "https://arxiv.org/abs/2607.05999"
+      "Paper": "https://arxiv.org/abs/2607.05999"
     }
   },
   {
@@ -620,7 +642,7 @@ const PUBLICATIONS = [
     "y": "2026",
     "s": "Preprint",
     "l": {
-      "pdf": "https://arxiv.org/abs/2605.04972"
+      "Paper": "https://arxiv.org/abs/2605.04972"
     }
   },
   {
@@ -628,7 +650,7 @@ const PUBLICATIONS = [
     "y": "2026",
     "s": "Preprint",
     "l": {
-      "pdf": "https://arxiv.org/abs/2603.00003"
+      "Paper": "https://arxiv.org/abs/2603.00003"
     }
   },
   {
@@ -636,7 +658,7 @@ const PUBLICATIONS = [
     "y": "2025",
     "s": "Preprint",
     "l": {
-      "pdf": "https://arxiv.org/abs/2509.17482"
+      "Paper": "https://arxiv.org/abs/2509.17482"
     }
   },
   {
@@ -644,7 +666,7 @@ const PUBLICATIONS = [
     "y": "2025",
     "s": "Preprint",
     "l": {
-      "pdf": "https://arxiv.org/abs/2507.01923"
+      "Paper": "https://arxiv.org/abs/2507.01923"
     }
   },
   {
@@ -652,7 +674,7 @@ const PUBLICATIONS = [
     "y": "2025",
     "s": "Preprint",
     "l": {
-      "pdf": "https://arxiv.org/pdf/2507.20249"
+      "Paper": "https://arxiv.org/abs/2507.20249"
     }
   },
   {
@@ -660,7 +682,7 @@ const PUBLICATIONS = [
     "y": "2025",
     "s": "Preprint",
     "l": {
-      "pdf": "https://arxiv.org/abs/2504.09903"
+      "Paper": "https://arxiv.org/abs/2504.09903"
     }
   },
   {
@@ -668,7 +690,7 @@ const PUBLICATIONS = [
     "y": "2025",
     "s": "Preprint",
     "l": {
-      "pdf": "https://arxiv.org/abs/2504.09903"
+      "Paper": "https://arxiv.org/abs/2502.14311"
     }
   },
   {
@@ -676,7 +698,7 @@ const PUBLICATIONS = [
     "y": "2024",
     "s": "Preprint",
     "l": {
-      "pdf": "https://arxiv.org/abs/2412.05916"
+      "Paper": "https://arxiv.org/abs/2412.05916"
     }
   },
   {
@@ -684,7 +706,7 @@ const PUBLICATIONS = [
     "y": "2024",
     "s": "Preprint",
     "l": {
-      "pdf": "https://arxiv.org/abs/2409.18678"
+      "Paper": "https://arxiv.org/abs/2409.18678"
     }
   },
   {
@@ -692,7 +714,7 @@ const PUBLICATIONS = [
     "y": "2024",
     "s": "Preprint",
     "l": {
-      "pdf": "https://arxiv.org/abs/2410.00354"
+      "Paper": "https://arxiv.org/abs/2410.00354"
     }
   },
   {
@@ -700,7 +722,7 @@ const PUBLICATIONS = [
     "y": "2024",
     "s": "Preprint",
     "l": {
-      "pdf": "https://arxiv.org/abs/2410.07225"
+      "Paper": "https://arxiv.org/abs/2410.07225"
     }
   },
   {
@@ -708,7 +730,7 @@ const PUBLICATIONS = [
     "y": "2024",
     "s": "Preprint",
     "l": {
-      "pdf": "https://arxiv.org/abs/2405.20708"
+      "Paper": "https://arxiv.org/abs/2405.20708"
     }
   },
   {
@@ -716,7 +738,7 @@ const PUBLICATIONS = [
     "y": "2024",
     "s": "Preprint",
     "l": {
-      "pdf": "https://arxiv.org/abs/2409.18679"
+      "Paper": "https://arxiv.org/abs/2409.18679"
     }
   },
   {
@@ -724,6 +746,7 @@ const PUBLICATIONS = [
     "y": "2025",
     "s": "Overview",
     "l": {
+      "Paper": "https://aclanthology.org/2025.semeval-1.321/",
       "PromiseEval @ SemEval-2025": "https://sites.google.com/view/promiseeval/promiseeval"
     }
   },
@@ -732,7 +755,7 @@ const PUBLICATIONS = [
     "y": "2024",
     "s": "Overview",
     "l": {
-      "pdf": "https://aclanthology.org/2024.semeval-1.213/",
+      "Paper": "https://aclanthology.org/2024.semeval-1.213/",
       "NumEval @ SemEval-2024": "https://sites.google.com/view/numeval/"
     }
   },
@@ -740,20 +763,24 @@ const PUBLICATIONS = [
     "x": "Chung-Chi Chen , Yu-Min Tseng, Juyeon Kang, Anaïs Lhuissier, Yohei Seki, Hanwool Lee, Min-Yuh Day, Teng-Tsai Tu, and Hsin-Hsi Chen. 2024. Multi-Lingual ESG Impact Duration Inference. In Proceedings of The Joint Workshop of the 7th Financial Technology and Natural Language Processing, the 5th Knowledge Discovery from Unstructured Data in Financial Services, and the 4th Workshop on Economics and Natural Language Processing . pdf",
     "y": "2024",
     "s": "Overview",
-    "l": {}
+    "l": {
+      "Paper": "https://aclanthology.org/2024.finnlp-1.22/"
+    }
   },
   {
     "x": "Chung-Chi Chen , Chin-Yi Lin, Chr-Jr Chiu, Hen-Hsen Huang, Alaa Alhamzeh, Yu-Lieh Huang, Hiroya Takamura, and Hsin-Hsi Chen. 2023. Overview of the NTCIR-17 FinArg-1 Task: Fine-grained Argument Understanding in Financial Analysis, In Proceedings of the 17th NTCIR Conference on Evaluation of Information Access Technologies (NTCIR-17).",
     "y": "2023",
     "s": "Overview",
-    "l": {}
+    "l": {
+      "Paper": "https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings17/pdf/ntcir/01-NTCIR17-OV-FINARG-ChenC.pdf"
+    }
   },
   {
     "x": "Chung-Chi Chen , Yu-Min Tseng, Juyeon Kang, Anaïs Lhuissier, Yohei Seki, Min-Yuh Day, Teng-Tsai Tu, and Hsin-Hsi Chen. 2023. Multi-Lingual ESG Impact Type Identification. In Proceedings of the Sixth Workshop on Financial Technology and Natural Language Processing (FinNLP'23). pdf",
     "y": "2023",
     "s": "Overview",
     "l": {
-      "pdf": "https://aclanthology.org/2023.finnlp-2.6/"
+      "Paper": "https://aclanthology.org/2023.finnlp-2.6/"
     }
   },
   {
@@ -761,7 +788,7 @@ const PUBLICATIONS = [
     "y": "2023",
     "s": "Overview",
     "l": {
-      "pdf": "https://aclanthology.org/2023.finnlp-1.11/"
+      "Paper": "https://aclanthology.org/2023.finnlp-1.11/"
     }
   },
   {
@@ -769,7 +796,7 @@ const PUBLICATIONS = [
     "y": "2022",
     "s": "Overview",
     "l": {
-      "pdf": "papers/FinTech for Social Good_ A Research Agenda from NLP Perspective (arXiv).pdf"
+      "Paper": "https://arxiv.org/abs/2211.06431"
     }
   },
   {
@@ -777,7 +804,7 @@ const PUBLICATIONS = [
     "y": "2022",
     "s": "Overview",
     "l": {
-      "pdf": "papers/ERAI_Overview_FinNLP_EMNLP_2022.pdf",
+      "Paper": "https://aclanthology.org/2022.finnlp-1.11/",
       "resource": "https://github.com/ymntseng/FinNLP2023_ML-ESG_ChineseCrawler"
     }
   },
@@ -786,7 +813,7 @@ const PUBLICATIONS = [
     "y": "2022",
     "s": "Overview",
     "l": {
-      "pdf": "papers/WWW_2022.pdf"
+      "Paper": "https://doi.org/10.1145/3487553.3524868"
     }
   },
   {
@@ -794,7 +821,7 @@ const PUBLICATIONS = [
     "y": "2022",
     "s": "Overview",
     "l": {
-      "pdf": "papers/FinNum3.pdf"
+      "Paper": "https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings16/pdf/ntcir/01-NTCIR16-OV-FINNUM-ChenC.pdf"
     }
   },
   {
@@ -802,7 +829,7 @@ const PUBLICATIONS = [
     "y": "2021",
     "s": "Overview",
     "l": {
-      "pdf": "https://aclanthology.org/2021.emnlp-tutorials.2/",
+      "Paper": "https://aclanthology.org/2021.emnlp-tutorials.2/",
       "book": "https://link.springer.com/book/10.1007/978-981-16-2881-8",
       "EMNLP-2021 Tutorial": "https://sites.google.com/nlg.csie.ntu.edu.tw/financial-opinion-mining/home"
     }
@@ -812,8 +839,7 @@ const PUBLICATIONS = [
     "y": "2020",
     "s": "Overview",
     "l": {
-      "pdf": "papers/2005.01320.pdf",
-      "arXiv": "https://arxiv.org/abs/2005.01320",
+      "Paper": "https://arxiv.org/abs/2005.01320",
       "AACL-2020 Tutorial": "https://sites.google.com/nlg.csie.ntu.edu.tw/nlpfintech"
     }
   },
@@ -822,7 +848,7 @@ const PUBLICATIONS = [
     "y": "2020",
     "s": "Overview",
     "l": {
-      "pdf": "http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings15/pdf/ntcir/01-NTCIR15-OV-FINNUM-ChenC.pdf",
+      "Paper": "https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings15/pdf/ntcir/01-NTCIR15-OV-FINNUM-ChenC.pdf",
       "slides": "slides/FinNum2020.pdf",
       "poster": "posters/FinNum2020.pdf",
       "resource": "http://nlg.csie.ntu.edu.tw/nlpresource/NumAttach/"
@@ -833,7 +859,7 @@ const PUBLICATIONS = [
     "y": "2019",
     "s": "Overview",
     "l": {
-      "pdf": "https://link.springer.com/chapter/10.1007/978-3-030-36805-0_14"
+      "Paper": "https://link.springer.com/chapter/10.1007/978-3-030-36805-0_14"
     }
   },
   {
@@ -841,7 +867,7 @@ const PUBLICATIONS = [
     "y": "2019",
     "s": "Overview",
     "l": {
-      "pdf": "http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings14/pdf/ntcir/01-NTCIR14-OV-FINNUM-ChenC.pdf",
+      "Paper": "https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings14/pdf/ntcir/01-NTCIR14-OV-FINNUM-ChenC.pdf",
       "slides": "slides/FinNum2019.pdf",
       "poster": "posters/FinNum2019.pdf",
       "resource": "http://nlg.csie.ntu.edu.tw/nlpresource/FinNum/"
@@ -852,7 +878,7 @@ const PUBLICATIONS = [
     "y": "2024",
     "s": "Workshop",
     "l": {
-      "pdf": "https://arxiv.org/abs/2409.17448"
+      "Paper": "https://arxiv.org/abs/2409.17448"
     }
   },
   {
@@ -860,7 +886,7 @@ const PUBLICATIONS = [
     "y": "2023",
     "s": "Workshop",
     "l": {
-      "pdf": "https://ceur-ws.org/Vol-3477/paper1.pdf"
+      "Paper": "https://ceur-ws.org/Vol-3477/paper1.pdf"
     }
   },
   {
@@ -868,7 +894,7 @@ const PUBLICATIONS = [
     "y": "2020",
     "s": "Workshop",
     "l": {
-      "pdf": "https://www.aclweb.org/anthology/2020.fnp-1.11.pdf"
+      "Paper": "https://aclanthology.org/2020.fnp-1.11/"
     }
   },
   {
@@ -876,7 +902,7 @@ const PUBLICATIONS = [
     "y": "2018",
     "s": "Workshop",
     "l": {
-      "pdf": "papers/NTUSD-Fin_Market_Sentiment_Dictionary_for_Financial_Social_Media_Data.pdf",
+      "Paper": "https://www.cs.nccu.edu.tw/~hhhuang/docs/fnp2018.pdf",
       "resource": "http://nlg.csie.ntu.edu.tw/nlpresource/NTUSD-Fin/"
     }
   },
@@ -885,7 +911,7 @@ const PUBLICATIONS = [
     "y": "2018",
     "s": "Workshop",
     "l": {
-      "pdf": "https://dl.acm.org/citation.cfm?id=3184558.3191824",
+      "Paper": "https://doi.org/10.1145/3184558.3191824",
       "slides": "https://prezi.com/view/OGYHAFFKNtnZT53JjWeO/"
     }
   },
@@ -894,7 +920,7 @@ const PUBLICATIONS = [
     "y": "2017",
     "s": "Workshop",
     "l": {
-      "pdf": "http://www.aclweb.org/anthology/S17-2144",
+      "Paper": "https://aclanthology.org/S17-2144/",
       "poster": "images/SemEval2017.jpg"
     }
   }
