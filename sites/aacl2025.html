@@ -10,37 +10,25 @@
     <meta property="og:title" content="HAT‑HOTA — IJCNLP‑AACL Tutorial 2025" />
     <meta property="og:description" content="Human–Agent Teaming for Higher‑Order Thinking Augmentation. Speaker: Chung‑Chi Chen." />
     <meta property="og:type" content="website" />
-    <meta property="og:image" content="/og-image.png" />
+    <meta property="og:image" content="https://nlpfin.com/images/head.jpg" />
 
     <!-- Inter Font -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-
-    <!-- Tailwind via CDN -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script>
-      // Tailwind customization (optional)
-      tailwind.config = {
-        theme: {
-          extend: {
-            fontFamily: { sans: ["Inter", "ui-sans-serif", "system-ui", "-apple-system", "Segoe UI", "Roboto", "Helvetica Neue", "Arial", "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"] },
-            colors: {
-              primary: {
-                50: '#eef9ff', 100: '#d6f1ff', 200: '#b5e6ff', 300: '#85d7ff', 400: '#49c2ff', 500: '#0aaeff', 600: '#0091e0', 700: '#0073b3', 800: '#035c8e', 900: '#084c74'
-              }
-            },
-          }
-        }
-      }
-    </script>
     <style>
       html, body { height: 100%; }
       /* Subtle noise texture */
       .noise { position: fixed; inset: 0; pointer-events: none; background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120"><filter id="n"><feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="2" stitchTiles="stitch"/></filter><rect width="100%" height="100%" filter="url(%23n)" opacity="0.035"/></svg>'); opacity: .6; }
     </style>
-  </head>
-  <body class="antialiased bg-gradient-to-br from-slate-900 via-slate-900 to-slate-800 text-slate-100">
+  <link rel="stylesheet" href="../design/system.css">
+  <link rel="stylesheet" href="../design/pi.css">
+  <script defer src="../design/interaction.js"></script>
+  <link rel="canonical" href="https://nlpfin.com/sites/aacl2025.html">
+  <link rel="icon" type="image/svg+xml" href="../images/haa-lab-logo.svg">
+  <meta property="og:url" content="https://nlpfin.com/sites/aacl2025.html">
+</head>
+  <body class="antialiased bg-gradient-to-br from-slate-900 via-slate-900 to-slate-800 text-slate-100 haa-2026 site-pi" data-page="aacl2025" data-layout="satellite">
     <div class="noise"></div>
 
     <!-- Page Wrapper -->
@@ -75,14 +63,14 @@
                 </div>
                 <div>
                   <div class="text-sm uppercase tracking-wider text-white/60">Speaker</div>
-                  <a href="https://nlpfin.github.io/" target="_blank" rel="noopener" class="text-lg font-semibold hover:underline decoration-primary-400/60 underline-offset-4">Chung‑Chi Chen</a>
+                  <a href="../index.html" target="_blank" rel="noopener" class="text-lg font-semibold hover:underline decoration-primary-400/60 underline-offset-4">Chung‑Chi Chen</a>
                 </div>
               </div>
 
               <!-- CTA Button -->
               <div class="flex items-center gap-3">
                 <a
-                  href="https://haalab.github.io/slides/Human–Agent%20Teaming%20for%20Higher-Order%20Thinking%20Augmentation.pdf"  
+                  href="https://haalab.org/slides/Human–Agent%20Teaming%20for%20Higher-Order%20Thinking%20Augmentation.pdf"  
                   class="inline-flex items-center justify-center rounded-2xl bg-primary-500 px-5 py-3 text-base font-semibold text-slate-950 hover:bg-primary-400 active:scale-[.99] transition focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-300"
                   aria-label="Download slides for HAT‑HOTA tutorial"
                 >
@@ -112,7 +100,7 @@
           <footer class="relative border-t border-white/10 px-8 md:px-12 py-6 text-sm text-white/60 flex flex-col sm:flex-row gap-3 sm:items-center sm:justify-between">
             <p>© 2025 HAT‑HOTA Tutorial</p>
             <nav class="flex items-center gap-6">
-              <a href="https://nlpfin.github.io/" target="_blank" rel="noopener" class="hover:text-white">Speaker Homepage</a>
+              <a href="../index.html" target="_blank" rel="noopener" class="hover:text-white">Speaker Homepage</a>
             </nav>
           </footer>
         </div>
