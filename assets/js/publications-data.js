@@ -6,7 +6,7 @@ const PUBLICATIONS = [
     "l": {}
   },
   {
-    "x": "Chun-Yu Hsu, Lun-Wei Ku, and Chung-Chi Chen. 2026. Upstream Influence, Downstream Re-Anchoring in LLM Agent Chains. arXiv. pdf",
+    "x": "Chun-Yu Hsu, Lun-Wei Ku, and Chung-Chi Chen. 2026. Upstream Influence, Downstream Re-Anchoring in LLM Agent Chains. arXiv.",
     "y": "2026",
     "s": "Latest",
     "l": {
@@ -14,7 +14,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chun-Wei Kang, Chung-Chi Chen, and An-Zi Yen. 2026. Self-Guided Planning and Repair Framework for Code Generation (Student Abstract). In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'26), Student Abstract and Poster Program. pdf",
+    "x": "Chun-Wei Kang, Chung-Chi Chen, and An-Zi Yen. 2026. Self-Guided Planning and Repair Framework for Code Generation (Student Abstract). In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'26), Student Abstract and Poster Program.",
     "y": "2026",
     "s": "Workshop",
     "l": {
@@ -66,7 +66,7 @@ const PUBLICATIONS = [
     "l": {}
   },
   {
-    "x": "Chung-Chi Chen , and Hiroya Takamura. 2025. Agent AI for Finance: From Financial Argument Mining to Agent-Based Modeling. Springer Nature. Open Access ECAI-2024 Tutorial",
+    "x": "Chung-Chi Chen , and Hiroya Takamura. 2025. Agent AI for Finance: From Financial Argument Mining to Agent-Based Modeling. Springer Nature. ECAI-2024 Tutorial",
     "y": "2025",
     "s": "Book",
     "l": {
@@ -75,7 +75,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2021. From Opinion Mining to Financial Argument Mining. Springer Nature. Open Access EMNLP-2021 Tutorial",
+    "x": "Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2021. From Opinion Mining to Financial Argument Mining. Springer Nature. EMNLP-2021 Tutorial",
     "y": "2021",
     "s": "Book",
     "l": {
@@ -84,7 +84,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chun-Yu Hsu, Lun-Wei Ku, and Chung-Chi Chen. 2026. Upstream Influence, Downstream Re-Anchoring in LLM Agent Chains. arXiv. pdf",
+    "x": "Chun-Yu Hsu, Lun-Wei Ku, and Chung-Chi Chen. 2026. Upstream Influence, Downstream Re-Anchoring in LLM Agent Chains. arXiv.",
     "y": "2026",
     "s": "Preprint",
     "l": {
@@ -92,7 +92,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen . 2026. AgoraSim: A Hybrid Agent-Based Modeling Framework. arXiv. pdf",
+    "x": "Chung-Chi Chen . 2026. AgoraSim: A Hybrid Agent-Based Modeling Framework. arXiv.",
     "y": "2026",
     "s": "Latest",
     "l": {
@@ -100,7 +100,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Wataru Hirota, Tomoki Taniguchi, Tomoko Ohkuma, Kosuke Takahashi, Takahiro Omi, Kosuke Arima, Takuto Asakura, Chung-Chi Chen , Tatsuya Ishigaki. 2026. Aggregate vs. Personalized Judges in Business Idea Evaluation: Evidence from Expert Disagreement. In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics - Industry Track (ACL'26) pdf",
+    "x": "Wataru Hirota, Tomoki Taniguchi, Tomoko Ohkuma, Kosuke Takahashi, Takahiro Omi, Kosuke Arima, Takuto Asakura, Chung-Chi Chen , Tatsuya Ishigaki. 2026. Aggregate vs. Personalized Judges in Business Idea Evaluation: Evidence from Expert Disagreement. In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics - Industry Track (ACL'26)",
     "y": "2026",
     "s": "Conference",
     "l": {
@@ -108,7 +108,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Yu-Yu Chang, Huan-Wen Ho, Chung-Chi Chen , Ming-Hung Wang. 2026. DR-CUP: A Dataset on Real-time Commentary in U.S. Presidential Debates. In Proceedings of the International Conference on Language Resources and Evaluation (LREC'26) pdf dataset",
+    "x": "Yu-Yu Chang, Huan-Wen Ho, Chung-Chi Chen , Ming-Hung Wang. 2026. DR-CUP: A Dataset on Real-time Commentary in U.S. Presidential Debates. In Proceedings of the International Conference on Language Resources and Evaluation (LREC'26)",
     "y": "2026",
     "s": "Conference",
     "l": {
@@ -117,7 +117,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Bo-Wei Chen, Chung-Chi Chen , An-Zi Yen. 2026. Confidence-Driven Multi-Scale Model Selection for Cost-Effective NLU. Findings of the Association for Computational Linguistics: EACL 2026 pdf",
+    "x": "Bo-Wei Chen, Chung-Chi Chen , An-Zi Yen. 2026. Confidence-Driven Multi-Scale Model Selection for Cost-Effective NLU. Findings of the Association for Computational Linguistics: EACL 2026",
     "y": "2026",
     "s": "Conference",
     "l": {
@@ -125,7 +125,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Yuyang Cheng, Xingwei Qu, Tomas Goldsack, Chenghua Lin, Chung-Chi Chen . 2025. Observing Micromotives and Macrobehavior of Large Language Models. In Proceedings of the International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL) . pdf",
+    "x": "Yuyang Cheng, Xingwei Qu, Tomas Goldsack, Chenghua Lin, Chung-Chi Chen . 2025. Observing Micromotives and Macrobehavior of Large Language Models. In Proceedings of the International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL) .",
     "y": "2025",
     "s": "Conference",
     "l": {
@@ -133,7 +133,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hen-Hsen Huang, Hsin-Hsi Chen, Hiroya Takamura, Ichiro Kobayashi, Yusuke Miyao. 2025. Enhancing Investment Opinion Ranking through Argument-Based Sentiment Analysis. In Proceedings of the International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL) . pdf",
+    "x": "Chung-Chi Chen , Hen-Hsen Huang, Hsin-Hsi Chen, Hiroya Takamura, Ichiro Kobayashi, Yusuke Miyao. 2025. Enhancing Investment Opinion Ranking through Argument-Based Sentiment Analysis. In Proceedings of the International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL) .",
     "y": "2025",
     "s": "Conference",
     "l": {
@@ -141,7 +141,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Yohei Seki, Hakusen Shu, Anaïs Lhuissier, Hanwool Lee, Juyeon Kang, Min-Yuh Day, and Chung-Chi Chen . 2025. ML-Promise: A Multilingual Dataset for Corporate Promise Verification. In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25). pdf",
+    "x": "Yohei Seki, Hakusen Shu, Anaïs Lhuissier, Hanwool Lee, Juyeon Kang, Min-Yuh Day, and Chung-Chi Chen . 2025. ML-Promise: A Multilingual Dataset for Corporate Promise Verification. In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25).",
     "y": "2025",
     "s": "Conference",
     "l": {
@@ -149,7 +149,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Huan-Wen Ho, Yu-Yu Chang, Ming-Hung Wang, Ramon Ruiz-Dolz, Chris Reed, Ichiro Kobayashi, Yusuke Miyao, Hiroya Takamura. 2025. Live Commentary Planning and Generation. In Proceedings of the 18th International Natural Language Generation Conference: Generation Challenges (INLG'25') pdf",
+    "x": "Chung-Chi Chen , Huan-Wen Ho, Yu-Yu Chang, Ming-Hung Wang, Ramon Ruiz-Dolz, Chris Reed, Ichiro Kobayashi, Yusuke Miyao, Hiroya Takamura. 2025. Live Commentary Planning and Generation. In Proceedings of the 18th International Natural Language Generation Conference: Generation Challenges (INLG'25')",
     "y": "2025",
     "s": "Conference",
     "l": {
@@ -157,7 +157,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Yung-Yu Shih, Yun-Nung Chen, Chung-Chi Chen . 2025. Company-Specific Knowledge Matters: Retrieval-Augmented Generation for Earnings Call Answer Rehearsal. In Proceedings of The 34th ACM International Conference on Information and Knowledge Management (CIKM'25). pdf",
+    "x": "Yung-Yu Shih, Yun-Nung Chen, Chung-Chi Chen . 2025. Company-Specific Knowledge Matters: Retrieval-Augmented Generation for Earnings Call Answer Rehearsal. In Proceedings of The 34th ACM International Conference on Information and Knowledge Management (CIKM'25).",
     "y": "2025",
     "s": "Conference",
     "l": {
@@ -165,7 +165,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Yu-Min Tseng, Wei-Lin Chen, Chung-Chi Chen , Hsin-Hsi Chen. 2025. Evaluating Large Language Models as Expert Annotators. In Proceedings of Second Conference on Language Modeling (COLM'25). pdf",
+    "x": "Yu-Min Tseng, Wei-Lin Chen, Chung-Chi Chen , Hsin-Hsi Chen. 2025. Evaluating Large Language Models as Expert Annotators. In Proceedings of Second Conference on Language Modeling (COLM'25).",
     "y": "2025",
     "s": "Conference",
     "l": {
@@ -173,7 +173,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Takehiro Takayanagi, Hiroya Takamura, Kiyoshi Izumi, Chung-Chi Chen . 2025. Can GPT-4 Sway Experts' Decisions? In Findings of the Association for Computational Linguistics: NAACL 2025 . pdf",
+    "x": "Takehiro Takayanagi, Hiroya Takamura, Kiyoshi Izumi, Chung-Chi Chen . 2025. Can GPT-4 Sway Experts' Decisions? In Findings of the Association for Computational Linguistics: NAACL 2025 .",
     "y": "2025",
     "s": "Conference",
     "l": {
@@ -181,7 +181,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Yining Juan, Chung-Chi Chen , Hen-Hsen Huang, Hsin-Hsi Chen. 2025. Co-Trained Retriever-Generator Framework for Question Generation in Earnings Calls. In Companion Proceedings of the Web Conference 2025 (WWW'25). pdf",
+    "x": "Yining Juan, Chung-Chi Chen , Hen-Hsen Huang, Hsin-Hsi Chen. 2025. Co-Trained Retriever-Generator Framework for Question Generation in Earnings Calls. In Companion Proceedings of the Web Conference 2025 (WWW'25).",
     "y": "2025",
     "s": "Conference",
     "l": {
@@ -189,7 +189,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chr-Jr Chiu, Chung-Chi Chen , Hen-Hsen Huang, Hsin-Hsi Chen. 2025. Pre-Finetuning with Impact Duration Awareness for Stock Movement Prediction. In Companion Proceedings of the Web Conference 2025 (WWW'25). pdf",
+    "x": "Chr-Jr Chiu, Chung-Chi Chen , Hen-Hsen Huang, Hsin-Hsi Chen. 2025. Pre-Finetuning with Impact Duration Awareness for Stock Movement Prediction. In Companion Proceedings of the Web Conference 2025 (WWW'25).",
     "y": "2025",
     "s": "Conference",
     "l": {
@@ -197,7 +197,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Hsiu-Hung Lee, Chung-Chi Chen , An-Zi Yen. 2025. RAG-Enhanced Evidence Recommendation in Financial Legal Resolutions. In Companion Proceedings of the Web Conference 2025 (WWW'25). pdf",
+    "x": "Hsiu-Hung Lee, Chung-Chi Chen , An-Zi Yen. 2025. RAG-Enhanced Evidence Recommendation in Financial Legal Resolutions. In Companion Proceedings of the Web Conference 2025 (WWW'25).",
     "y": "2025",
     "s": "Conference",
     "l": {
@@ -205,7 +205,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Tomas Goldsack, Yang Wang, Chenghua Lin, and Chung-Chi Chen . 2025. From Facts to Insights: A Study on the Generation and Evaluation of Analytical Reports for Deciphering Earnings Calls. Proceedings of the 31st International Conference on Computational Linguistics (COLING-2025). pdf",
+    "x": "Tomas Goldsack, Yang Wang, Chenghua Lin, and Chung-Chi Chen . 2025. From Facts to Insights: A Study on the Generation and Evaluation of Analytical Reports for Deciphering Earnings Calls. Proceedings of the 31st International Conference on Computational Linguistics (COLING-2025).",
     "y": "2025",
     "s": "Conference",
     "l": {
@@ -213,7 +213,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hiroya Takamura, Ichiro Kobayashi, Yusuke Miyao, Hsin-Hsi Chen. 2025. GADFA: Generator-Assisted Decision-Focused Approach for Opinion Expressing Timing Identification. Proceedings of the 31st International Conference on Computational Linguistics (COLING-2025). pdf",
+    "x": "Chung-Chi Chen , Hiroya Takamura, Ichiro Kobayashi, Yusuke Miyao, Hsin-Hsi Chen. 2025. GADFA: Generator-Assisted Decision-Focused Approach for Opinion Expressing Timing Identification. Proceedings of the 31st International Conference on Computational Linguistics (COLING-2025).",
     "y": "2025",
     "s": "Conference",
     "l": {
@@ -221,7 +221,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hiroya Takamura, Ichiro Kobayashi and Yusuke Miyao. 2024. Professionalism-Aware Pre-Finetuning for Profitability Ranking. In Proceedings of The 33rd ACM International Conference on Information and Knowledge Management (CIKM'24) pdf (Acceptance Rate: 26.76%, 141/527)",
+    "x": "Chung-Chi Chen , Hiroya Takamura, Ichiro Kobayashi and Yusuke Miyao. 2024. Professionalism-Aware Pre-Finetuning for Profitability Ranking. In Proceedings of The 33rd ACM International Conference on Information and Knowledge Management (CIKM'24) (Acceptance Rate: 26.76%, 141/527)",
     "y": "2024",
     "s": "Conference",
     "l": {
@@ -229,7 +229,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Hsiu-Hsuan Yeh, Yu-Lieh Huang, Ziho Park, and Chung-Chi Chen . 2024. Automation of Text-Based Economic Indicator Construction: A Pilot Exploration on Economic Policy Uncertainty Index. In Proceedings of The 33rd ACM International Conference on Information and Knowledge Management (CIKM'24) pdf (Acceptance Rate: 26.76%, 141/527)",
+    "x": "Hsiu-Hsuan Yeh, Yu-Lieh Huang, Ziho Park, and Chung-Chi Chen . 2024. Automation of Text-Based Economic Indicator Construction: A Pilot Exploration on Economic Policy Uncertainty Index. In Proceedings of The 33rd ACM International Conference on Information and Knowledge Management (CIKM'24) (Acceptance Rate: 26.76%, 141/527)",
     "y": "2024",
     "s": "Conference",
     "l": {
@@ -237,7 +237,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chin-Yi Lin, Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2024. Argument-Based Sentiment Analysis on Forward-Looking Statements. In Findings of the Association for Computational Linguistics: ACL 2024 . pdf",
+    "x": "Chin-Yi Lin, Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2024. Argument-Based Sentiment Analysis on Forward-Looking Statements. In Findings of the Association for Computational Linguistics: ACL 2024 .",
     "y": "2024",
     "s": "Conference",
     "l": {
@@ -245,7 +245,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Rungsiman Nararatwong, Chung-Chi Chen , Natthawut Kertkeidkachorn, Hiroya Takamura, and Ryutaro Ichise. 2024. DBQR-QA: A Question Answering Dataset on a Hybrid of Database Querying and Reasoning. In Findings of the Association for Computational Linguistics: ACL 2024 . pdf",
+    "x": "Rungsiman Nararatwong, Chung-Chi Chen , Natthawut Kertkeidkachorn, Hiroya Takamura, and Ryutaro Ichise. 2024. DBQR-QA: A Question Answering Dataset on a Hybrid of Database Querying and Reasoning. In Findings of the Association for Computational Linguistics: ACL 2024 .",
     "y": "2024",
     "s": "Conference",
     "l": {
@@ -253,7 +253,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hiroya Takamura, Ichiro Kobayashi and Yusuke Miyao. 2024. The Impact of Language on Arithmetic Proficiency: A Multilingual Investigation with Cross-Agent Checking Computation. In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL'24) . pdf data (Acceptance Rate: 23.2%, 565/2434)",
+    "x": "Chung-Chi Chen , Hiroya Takamura, Ichiro Kobayashi and Yusuke Miyao. 2024. The Impact of Language on Arithmetic Proficiency: A Multilingual Investigation with Cross-Agent Checking Computation. In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL'24) . (Acceptance Rate: 23.2%, 565/2434)",
     "y": "2024",
     "s": "Conference",
     "l": {
@@ -262,7 +262,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Yi-Ting Liou, Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2024. News-Driven Price Movement Forecasting with Label-Prior Graph Attention. In Companion Proceedings of the Web Conference 2024 (WWW'24). pdf",
+    "x": "Yi-Ting Liou, Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2024. News-Driven Price Movement Forecasting with Label-Prior Graph Attention. In Companion Proceedings of the Web Conference 2024 (WWW'24).",
     "y": "2024",
     "s": "Conference",
     "l": {
@@ -270,7 +270,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Sohom Ghosh, Chung-Chi Chen , Sudip Kumar Naskar. 2024. Generator-Guided Crowd Reaction Assessment. In Companion Proceedings of the Web Conference 2024 (WWW'24). pdf",
+    "x": "Sohom Ghosh, Chung-Chi Chen , Sudip Kumar Naskar. 2024. Generator-Guided Crowd Reaction Assessment. In Companion Proceedings of the Web Conference 2024 (WWW'24).",
     "y": "2024",
     "s": "Conference",
     "l": {
@@ -278,7 +278,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hiroya Takamura. Term-Driven Forward-Looking Claim Synthesis in Earnings Calls, In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING'24), 2024. pdf (Acceptance Rate: 52%)",
+    "x": "Chung-Chi Chen , Hiroya Takamura. Term-Driven Forward-Looking Claim Synthesis in Earnings Calls, In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING'24), 2024. (Acceptance Rate: 52%)",
     "y": "2024",
     "s": "Conference",
     "l": {
@@ -286,7 +286,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Jian-Tao Huang, Chung-Chi Chen , Hen-Hsen Huang, Hsin-Hsi Chen. NumHG: A Dataset for Number-Focused Headline Generation, In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING'24), 2024. pdf NumEval@SemEval-2024 Dataset (Acceptance Rate: 52%)",
+    "x": "Jian-Tao Huang, Chung-Chi Chen , Hen-Hsen Huang, Hsin-Hsi Chen. NumHG: A Dataset for Number-Focused Headline Generation, In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING'24), 2024. (Acceptance Rate: 52%)",
     "y": "2024",
     "s": "Conference",
     "l": {
@@ -295,7 +295,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Ramon Ruiz-Dolz, Chr-Jr Chiu, Chung-Chi Chen , Noriko Kando, Hsin-Hsi Chen. Learning Strategies for Robust Argument Mining: An Analysis of Variations in Language and Domain, In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING'24), 2024. pdf (Acceptance Rate: 52%)",
+    "x": "Ramon Ruiz-Dolz, Chr-Jr Chiu, Chung-Chi Chen , Noriko Kando, Hsin-Hsi Chen. Learning Strategies for Robust Argument Mining: An Analysis of Variations in Language and Domain, In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING'24), 2024. (Acceptance Rate: 52%)",
     "y": "2024",
     "s": "Conference",
     "l": {
@@ -303,7 +303,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Tsung-Hsuan Pan, Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2024. Enhancing Society-Undermining Disinformation Detection through Fine-Grained Sentiment Analysis Pre-Finetuning. In Findings of the Association for Computational Linguistics: EACL 2024 . pdf (Acceptance Rate: 34.8%)",
+    "x": "Tsung-Hsuan Pan, Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2024. Enhancing Society-Undermining Disinformation Detection through Fine-Grained Sentiment Analysis Pre-Finetuning. In Findings of the Association for Computational Linguistics: EACL 2024 . (Acceptance Rate: 34.8%)",
     "y": "2024",
     "s": "Conference",
     "l": {
@@ -311,7 +311,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Wei-Lin Chen, Cheng-Kuang Wu, Hsin-Hsi Chen, Chung-Chi Chen , Fidelity-Enriched Contrastive Search: Reconciling the Faithfulness-Diversity Trade-Off in Text Generation. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP'23). pdf (Acceptance Rate: 14.02%, 146/1041)",
+    "x": "Wei-Lin Chen, Cheng-Kuang Wu, Hsin-Hsi Chen, Chung-Chi Chen , Fidelity-Enriched Contrastive Search: Reconciling the Faithfulness-Diversity Trade-Off in Text Generation. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP'23). (Acceptance Rate: 14.02%, 146/1041)",
     "y": "2023",
     "s": "Conference",
     "l": {
@@ -319,7 +319,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Takehiro Takayanagi, Chung-Chi Chen , Kiyoshi Izumi. 2023. Personalized Dynamic Recommender System for Investors. In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'23). pdf resource (Acceptance Rate: 25.12%, 154/613)",
+    "x": "Takehiro Takayanagi, Chung-Chi Chen , Kiyoshi Izumi. 2023. Personalized Dynamic Recommender System for Investors. In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'23). (Acceptance Rate: 25.12%, 154/613)",
     "y": "2023",
     "s": "Conference",
     "l": {
@@ -328,7 +328,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Yu-Min Tseng, Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2023. DynamicESG: A Dataset for Dynamically Unearthing ESG Ratings from News Articles. In Proceedings of The 32nd ACM International Conference on Information and Knowledge Management (CIKM'23). pdf resource (Acceptance Rate: 27.2%, 22/81)",
+    "x": "Yu-Min Tseng, Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2023. DynamicESG: A Dataset for Dynamically Unearthing ESG Ratings from News Articles. In Proceedings of The 32nd ACM International Conference on Information and Knowledge Management (CIKM'23). (Acceptance Rate: 27.2%, 22/81)",
     "y": "2023",
     "s": "Conference",
     "l": {
@@ -337,7 +337,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Ming-Xuan Shi, Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2023. Enhancing Volatility Forecasting in Financial Markets: A General Numeral Attachment Dataset for Understanding Earnings Calls. In Proceedings of The 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL'23). pdf (Acceptance Rate: 19.13%, 22/115)",
+    "x": "Ming-Xuan Shi, Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2023. Enhancing Volatility Forecasting in Financial Markets: A General Numeral Attachment Dataset for Understanding Earnings Calls. In Proceedings of The 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL'23). (Acceptance Rate: 19.13%, 22/115)",
     "y": "2023",
     "s": "Conference",
     "l": {
@@ -345,7 +345,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Yi-Ning Juan, Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2023. Generating Multiple Questions from Presentation Transcripts: A Pilot Study on Earnings Conference Calls. In Proceedings of the 16th International Conference on Natural Language Generation (INLG'23) . pdf poster",
+    "x": "Yi-Ning Juan, Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2023. Generating Multiple Questions from Presentation Transcripts: A Pilot Study on Earnings Conference Calls. In Proceedings of the 16th International Conference on Natural Language Generation (INLG'23) .",
     "y": "2023",
     "s": "Conference",
     "l": {
@@ -354,7 +354,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Yi-Ning Juan, Chung-Chi Chen , Hsin-Hsi Chen, and Daw-Wei Wang. 2023. CustodiAI: A System for Predicting Child Custody Outcomes. In Proceedings of The 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics: System Demonstrations (IJCNLP-AACL'23). pdf demo video",
+    "x": "Yi-Ning Juan, Chung-Chi Chen , Hsin-Hsi Chen, and Daw-Wei Wang. 2023. CustodiAI: A System for Predicting Child Custody Outcomes. In Proceedings of The 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics: System Demonstrations (IJCNLP-AACL'23).",
     "y": "2023",
     "s": "Conference",
     "l": {
@@ -364,7 +364,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hiroya Takamura, Ichiro Kobayashi and Yusuke Miyao. 2023. Improving Numeracy by Input Reframing and Quantitative Pre-Finetuning Task. In Findings of the Association for Computational Linguistics: EACL 2023 . pdf poster (Acceptance Rate: 17.2%)",
+    "x": "Chung-Chi Chen , Hiroya Takamura, Ichiro Kobayashi and Yusuke Miyao. 2023. Improving Numeracy by Input Reframing and Quantitative Pre-Finetuning Task. In Findings of the Association for Computational Linguistics: EACL 2023 . (Acceptance Rate: 17.2%)",
     "y": "2023",
     "s": "Conference",
     "l": {
@@ -373,7 +373,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Sin-Han Yang, Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2023. Entity-Aware Dual Co-Attention Network for Fake News Detection. In Findings of the Association for Computational Linguistics: EACL 2023 . pdf poster (Acceptance Rate: 17.2%)",
+    "x": "Sin-Han Yang, Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2023. Entity-Aware Dual Co-Attention Network for Fake News Detection. In Findings of the Association for Computational Linguistics: EACL 2023 . (Acceptance Rate: 17.2%)",
     "y": "2023",
     "s": "Conference",
     "l": {
@@ -382,7 +382,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Sohom Ghosh, Sachin Umrao, Chung-Chi Chen , and Sudip Kumar Naskar. 2023. The Mask One At a Time Framework for Detecting the Relationship between Financial Entities. In Proceedings of the 15th Annual Meeting of the Forum for Information Retrieval Evaluation . pdf (Acceptance Rate: 48%)",
+    "x": "Sohom Ghosh, Sachin Umrao, Chung-Chi Chen , and Sudip Kumar Naskar. 2023. The Mask One At a Time Framework for Detecting the Relationship between Financial Entities. In Proceedings of the 15th Annual Meeting of the Forum for Information Retrieval Evaluation . (Acceptance Rate: 48%)",
     "y": "2023",
     "s": "Conference",
     "l": {
@@ -390,7 +390,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2021. Evaluating the Rationales of Amateur Investors. In Proceedings of The Web Conference 2021 (WWW'21). pdf slides resource lexicon (Acceptance Rate: 20.6%, 357/1736)",
+    "x": "Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2021. Evaluating the Rationales of Amateur Investors. In Proceedings of The Web Conference 2021 (WWW'21). (Acceptance Rate: 20.6%, 357/1736)",
     "y": "2021",
     "s": "Conference",
     "l": {
@@ -401,7 +401,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2021. NQuAD: 70,000+ Questions for Machine Comprehension of the Numerals in Text. In Proceedings of The 30th ACM International Conference on Information and Knowledge Management (CIKM'21). pdf slides resource (Acceptance Rate: 28.3%, 177/626)",
+    "x": "Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2021. NQuAD: 70,000+ Questions for Machine Comprehension of the Numerals in Text. In Proceedings of The 30th ACM International Conference on Information and Knowledge Management (CIKM'21). (Acceptance Rate: 28.3%, 177/626)",
     "y": "2021",
     "s": "Conference",
     "l": {
@@ -411,7 +411,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hen-Hsen Huang, Yu-Lieh Huang, and Hsin-Hsi Chen. 2021. Distilling Numeral Information for Volatility Forecasting. In Proceedings of The 30th ACM International Conference on Information and Knowledge Management (CIKM'21). pdf slides resource (Acceptance Rate: 28.3%, 177/626)",
+    "x": "Chung-Chi Chen , Hen-Hsen Huang, Yu-Lieh Huang, and Hsin-Hsi Chen. 2021. Distilling Numeral Information for Volatility Forecasting. In Proceedings of The 30th ACM International Conference on Information and Knowledge Management (CIKM'21). (Acceptance Rate: 28.3%, 177/626)",
     "y": "2021",
     "s": "Conference",
     "l": {
@@ -421,7 +421,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hen-Hsen Huang, Yu-Lieh Huang, and Hsin-Hsi Chen. 2021. Constructing Noise Free Economic Policy Uncertainty Index. In Proceedings of The 30th ACM International Conference on Information and Knowledge Management (CIKM'21). pdf slides (Acceptance Rate: 28.3%, 177/626)",
+    "x": "Chung-Chi Chen , Hen-Hsen Huang, Yu-Lieh Huang, and Hsin-Hsi Chen. 2021. Constructing Noise Free Economic Policy Uncertainty Index. In Proceedings of The 30th ACM International Conference on Information and Knowledge Management (CIKM'21). (Acceptance Rate: 28.3%, 177/626)",
     "y": "2021",
     "s": "Conference",
     "l": {
@@ -430,7 +430,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Tsun-Hsien Tang, Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2021. Retrieving Implicit Information for Stock Movement Prediction. In Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'21). pdf slides poster (Acceptance Rate: 27.6%, 145/526)",
+    "x": "Tsun-Hsien Tang, Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2021. Retrieving Implicit Information for Stock Movement Prediction. In Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'21). (Acceptance Rate: 27.6%, 145/526)",
     "y": "2021",
     "s": "Conference",
     "l": {
@@ -440,7 +440,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Ting-Wei Hsu, Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2021. Semantics-Preserved Data Augmentation for Aspect-Based Sentiment Analysis. In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP'21). pdf slides (Acceptance Rate: 17.9%, 190/1060)",
+    "x": "Ting-Wei Hsu, Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2021. Semantics-Preserved Data Augmentation for Aspect-Based Sentiment Analysis. In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP'21). (Acceptance Rate: 17.9%, 190/1060)",
     "y": "2021",
     "s": "Conference",
     "l": {
@@ -449,7 +449,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Yi-Ting Liou, Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2021. Dynamic Graph Transformer for Implicit Tag Recognition. In Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics (EACL'21). pdf (Acceptance Rate: 24.7%)",
+    "x": "Yi-Ting Liou, Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2021. Dynamic Graph Transformer for Implicit Tag Recognition. In Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics (EACL'21). (Acceptance Rate: 24.7%)",
     "y": "2021",
     "s": "Conference",
     "l": {
@@ -457,7 +457,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2021. A Research Agenda for Financial Opinion Mining. In Proceedings of 15th International Conference on Web and Social Media (ICWSM'21). pdf",
+    "x": "Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2021. A Research Agenda for Financial Opinion Mining. In Proceedings of 15th International Conference on Web and Social Media (ICWSM'21).",
     "y": "2021",
     "s": "Conference",
     "l": {
@@ -465,7 +465,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2021. Which Kind of Rumors May Undermine Society: Perspectives from Court Orders. In Proceedings of the IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM'21) pdf",
+    "x": "Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2021. Which Kind of Rumors May Undermine Society: Perspectives from Court Orders. In Proceedings of the IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM'21)",
     "y": "2021",
     "s": "Conference",
     "l": {
@@ -473,7 +473,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Yi-Ting Liou, Chung-Chi Chen , Tsun-Hsien Tang, Hen-Hsen Huang, and Hsin-Hsi Chen. 2021. FinSense: An Assistant System for Financial Journalists and Investors. In Proceedings of the 14th International Conference on Web Search and Data Mining (WSDM'21). pdf demo",
+    "x": "Yi-Ting Liou, Chung-Chi Chen , Tsun-Hsien Tang, Hen-Hsen Huang, and Hsin-Hsi Chen. 2021. FinSense: An Assistant System for Financial Journalists and Investors. In Proceedings of the 14th International Conference on Web Search and Data Mining (WSDM'21).",
     "y": "2021",
     "s": "Conference",
     "l": {
@@ -482,7 +482,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Ting-Wei Hsu, Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2021. Risk-aware Regularization for Opinion-based Portfolio Selection. In Proceedings of 15th International Conference on Web and Social Media (ICWSM'21). pdf",
+    "x": "Ting-Wei Hsu, Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2021. Risk-aware Regularization for Opinion-based Portfolio Selection. In Proceedings of 15th International Conference on Web and Social Media (ICWSM'21).",
     "y": "2021",
     "s": "Conference",
     "l": {
@@ -490,7 +490,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2020. NumClaim: Investor's Fine-grained Claim Detection. In Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM'20), Online. pdf resource slides (Acceptance Rate: 25.9%, 103/397)",
+    "x": "Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2020. NumClaim: Investor's Fine-grained Claim Detection. In Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM'20), Online. (Acceptance Rate: 25.9%, 103/397)",
     "y": "2020",
     "s": "Conference",
     "l": {
@@ -500,7 +500,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2020. Issues and Perspectives from 10,000 Annotated Financial Social Media Data. In Proceedings of the 12th International Conference on Language Resources and Evaluation (LREC'20), Marseille, France. pdf resource",
+    "x": "Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2020. Issues and Perspectives from 10,000 Annotated Financial Social Media Data. In Proceedings of the 12th International Conference on Language Resources and Evaluation (LREC'20), Marseille, France.",
     "y": "2020",
     "s": "Conference",
     "l": {
@@ -509,7 +509,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Jui Chu, Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2020. Learning to Generate Correct Numeric Values in News Headlines. In Companion Proceedings of the Web Conference 2020 (WWW'20), Taipei, Taiwan. pdf slides poster",
+    "x": "Jui Chu, Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2020. Learning to Generate Correct Numeric Values in News Headlines. In Companion Proceedings of the Web Conference 2020 (WWW'20), Taipei, Taiwan.",
     "y": "2020",
     "s": "Conference",
     "l": {
@@ -519,7 +519,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Ting-Wei Hsu, Chung-Chi Chen , Hen-Hsen Huang, Meng Chang Chen, and Hsin-Hsi Chen. 2020. Hedging via Opinion-based Pair Trading Strategy. In Companion Proceedings of the Web Conference 2020 (WWW'20), Taipei, Taiwan. pdf",
+    "x": "Ting-Wei Hsu, Chung-Chi Chen , Hen-Hsen Huang, Meng Chang Chen, and Hsin-Hsi Chen. 2020. Hedging via Opinion-based Pair Trading Strategy. In Companion Proceedings of the Web Conference 2020 (WWW'20), Taipei, Taiwan.",
     "y": "2020",
     "s": "Conference",
     "l": {
@@ -527,7 +527,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hen-Hsen Huang, Hiroya Takamura and Hsin-Hsi Chen. 2019. Numeracy-600K: Learning Numeracy for Detecting Exaggerated Information in Market Comments. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL'19), Florence, Italy. pdf resource poster (Acceptance Rate: 18.2%, 213/1168)",
+    "x": "Chung-Chi Chen , Hen-Hsen Huang, Hiroya Takamura and Hsin-Hsi Chen. 2019. Numeracy-600K: Learning Numeracy for Detecting Exaggerated Information in Market Comments. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL'19), Florence, Italy. (Acceptance Rate: 18.2%, 213/1168)",
     "y": "2019",
     "s": "Conference",
     "l": {
@@ -537,7 +537,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2019. Numeral Attachment with Auxiliary Tasks. In Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'19), Paris, France. pdf resource poster (Acceptance Rate: 24.4%, 108/443)",
+    "x": "Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2019. Numeral Attachment with Auxiliary Tasks. In Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'19), Paris, France. (Acceptance Rate: 24.4%, 108/443)",
     "y": "2019",
     "s": "Conference",
     "l": {
@@ -547,7 +547,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2019. Crowd View: Converting Investors' Opinions into Indicators. In Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI'19), Macao, China. pdf demo poster slides",
+    "x": "Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2019. Crowd View: Converting Investors' Opinions into Indicators. In Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI'19), Macao, China.",
     "y": "2019",
     "s": "Conference",
     "l": {
@@ -558,7 +558,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hen-Hsen Huang, Chia-Wen Tsai, and Hsin-Hsi Chen. 2019. CrowdPT: Summarizing Crowd Opinions as Professional Analyst. In Proceedings of the 2019 World Wide Web Conference (WWW'19), San Francisco, CA, USA. pdf demo poster",
+    "x": "Chung-Chi Chen , Hen-Hsen Huang, Chia-Wen Tsai, and Hsin-Hsi Chen. 2019. CrowdPT: Summarizing Crowd Opinions as Professional Analyst. In Proceedings of the 2019 World Wide Web Conference (WWW'19), San Francisco, CA, USA.",
     "y": "2019",
     "s": "Conference",
     "l": {
@@ -568,7 +568,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2019. Next Cashtag Prediction on Social Trading Platforms with Auxiliary Tasks. In Proceedings of the IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM'19), Vancouver, Canada. pdf poster slides",
+    "x": "Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2019. Next Cashtag Prediction on Social Trading Platforms with Auxiliary Tasks. In Proceedings of the IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM'19), Vancouver, Canada.",
     "y": "2019",
     "s": "Conference",
     "l": {
@@ -578,7 +578,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hen-Hsen Huang, Yow-Ting Shiue, and Hsin-Hsi Chen. 2018. Numeral Understanding in Financial Tweets for Fine-grained Crowd-based Forecasting. In Proceedings of the 2018 IEEE/WIC/ACM International Conference on Web Intelligence (WI 2018), Santiago, Chile. pdf resource slides",
+    "x": "Chung-Chi Chen , Hen-Hsen Huang, Yow-Ting Shiue, and Hsin-Hsi Chen. 2018. Numeral Understanding in Financial Tweets for Fine-grained Crowd-based Forecasting. In Proceedings of the 2018 IEEE/WIC/ACM International Conference on Web Intelligence (WI 2018), Santiago, Chile.",
     "y": "2018",
     "s": "Conference",
     "l": {
@@ -588,7 +588,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Yu-Lieh Huang, and Fang Yang. 2024. Semantics Matter: An Empirical Study on Economic Policy Uncertainty Index. International Review of Economics and Finance pdf [SSCI] [Impact Factor@2022: 4.5, Q1 (26/111), Category: Business, Finance]",
+    "x": "Chung-Chi Chen , Yu-Lieh Huang, and Fang Yang. 2024. Semantics Matter: An Empirical Study on Economic Policy Uncertainty Index. International Review of Economics and Finance [SSCI] [Impact Factor@2022: 4.5, Q1 (26/111), Category: Business, Finance]",
     "y": "2024",
     "s": "Journal",
     "l": {
@@ -596,7 +596,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Yu-Lieh Huang, Jin-Huei Yeh, and Chung-Chi Chen . 2019. Economic Policy Uncertainty Index for Taiwan. Taiwan Economic Review . pdf",
+    "x": "Yu-Lieh Huang, Jin-Huei Yeh, and Chung-Chi Chen . 2019. Economic Policy Uncertainty Index for Taiwan. Taiwan Economic Review .",
     "y": "2019",
     "s": "Journal",
     "l": {
@@ -604,7 +604,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen . 2026. AgoraSim: A Hybrid Agent-Based Modeling Framework. arXiv. pdf",
+    "x": "Chung-Chi Chen . 2026. AgoraSim: A Hybrid Agent-Based Modeling Framework. arXiv.",
     "y": "2026",
     "s": "Preprint",
     "l": {
@@ -612,7 +612,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Tzu-Mi Lin, Wataru Hirota, Tatsuya Ishigaki, Lung-Hao Lee, Chung-Chi Chen . 2026. Why Expert Alignment Is Hard: Evidence from Subjective Evaluation. arXiv. pdf",
+    "x": "Tzu-Mi Lin, Wataru Hirota, Tatsuya Ishigaki, Lung-Hao Lee, Chung-Chi Chen . 2026. Why Expert Alignment Is Hard: Evidence from Subjective Evaluation. arXiv.",
     "y": "2026",
     "s": "Preprint",
     "l": {
@@ -620,7 +620,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Iryna Gurevych. 2026. Commitment Checklist: Auditing Author Commitments in Peer Review. arXiv. pdf",
+    "x": "Chung-Chi Chen , Iryna Gurevych. 2026. Commitment Checklist: Auditing Author Commitments in Peer Review. arXiv.",
     "y": "2026",
     "s": "Preprint",
     "l": {
@@ -628,7 +628,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Tsung-Hsuan Pan, Chung-Chi Chen , Hen-Hsen Huang, Hsin-Hsi Chen. 2025. Diagnosing Model Editing via Knowledge Spectrum. arXiv. pdf",
+    "x": "Tsung-Hsuan Pan, Chung-Chi Chen , Hen-Hsen Huang, Hsin-Hsi Chen. 2025. Diagnosing Model Editing via Knowledge Spectrum. arXiv.",
     "y": "2025",
     "s": "Preprint",
     "l": {
@@ -636,7 +636,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Yu-Shiang Huang, Chuan-Ju Wang, Chung-Chi Chen . 2025. Decision-oriented Text Evaluation. arXiv. pdf",
+    "x": "Yu-Shiang Huang, Chuan-Ju Wang, Chung-Chi Chen . 2025. Decision-oriented Text Evaluation. arXiv.",
     "y": "2025",
     "s": "Preprint",
     "l": {
@@ -644,7 +644,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Giulia D'Agostino, Chung-Chi Chen . 2025. Modeling Professionalism in Expert Questioning through Linguistic Differentiation. arXiv. pdf",
+    "x": "Giulia D'Agostino, Chung-Chi Chen . 2025. Modeling Professionalism in Expert Questioning through Linguistic Differentiation. arXiv.",
     "y": "2025",
     "s": "Preprint",
     "l": {
@@ -652,7 +652,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Bo-Wei Chen, An-Zi Yen, Chung-Chi Chen . 2025. Refining Financial Consumer Complaints through Multi-Scale Model Interaction. arXiv. pdf",
+    "x": "Bo-Wei Chen, An-Zi Yen, Chung-Chi Chen . 2025. Refining Financial Consumer Complaints through Multi-Scale Model Interaction. arXiv.",
     "y": "2025",
     "s": "Preprint",
     "l": {
@@ -660,7 +660,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Takehiro Takayanagi, Ryuji Hashimoto, Chung-Chi Chen , Kiyoshi Izumi. 2025. The Impact and Feasibility of Self-Confidence Shaping for AI-Assisted Decision-Making. arXiv. pdf",
+    "x": "Takehiro Takayanagi, Ryuji Hashimoto, Chung-Chi Chen , Kiyoshi Izumi. 2025. The Impact and Feasibility of Self-Confidence Shaping for AI-Assisted Decision-Making. arXiv.",
     "y": "2025",
     "s": "Preprint",
     "l": {
@@ -668,7 +668,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Ke-Ching Chang, Chung-Chi Chen , An-Zi Yen. Paraphrase-Aligned Machine Translation. 2024. arXiv. pdf",
+    "x": "Ke-Ching Chang, Chung-Chi Chen , An-Zi Yen. Paraphrase-Aligned Machine Translation. 2024. arXiv.",
     "y": "2024",
     "s": "Preprint",
     "l": {
@@ -676,7 +676,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Yung-Yu Shih, Ziwei Xu, Hiroya Takamura, Yun-Nung Chen, Chung-Chi Chen . 2024. Rehearsing Answers to Probable Questions with Perspective-Taking. arXiv. pdf",
+    "x": "Yung-Yu Shih, Ziwei Xu, Hiroya Takamura, Yun-Nung Chen, Chung-Chi Chen . 2024. Rehearsing Answers to Probable Questions with Perspective-Taking. arXiv.",
     "y": "2024",
     "s": "Preprint",
     "l": {
@@ -684,7 +684,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hiroya Takamura, Ichiro Kobayashi and Yusuke Miyao. 2024. Hierarchical Organization Simulacra in the Investment Sector. arXiv. pdf",
+    "x": "Chung-Chi Chen , Hiroya Takamura, Ichiro Kobayashi and Yusuke Miyao. 2024. Hierarchical Organization Simulacra in the Investment Sector. arXiv.",
     "y": "2024",
     "s": "Preprint",
     "l": {
@@ -692,7 +692,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hiroya Takamura, Ichiro Kobayashi and Yusuke Miyao. 2024. Distilling Analysis from Generative Models for Investment Decisions. arXiv. pdf",
+    "x": "Chung-Chi Chen , Hiroya Takamura, Ichiro Kobayashi and Yusuke Miyao. 2024. Distilling Analysis from Generative Models for Investment Decisions. arXiv.",
     "y": "2024",
     "s": "Preprint",
     "l": {
@@ -700,7 +700,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hiroya Takamura, Ichiro Kobayashi and Yusuke Miyao. 2024. FinGen: A Dataset for Argument Generation in Finance. arXiv. pdf",
+    "x": "Chung-Chi Chen , Hiroya Takamura, Ichiro Kobayashi and Yusuke Miyao. 2024. FinGen: A Dataset for Argument Generation in Finance. arXiv.",
     "y": "2024",
     "s": "Preprint",
     "l": {
@@ -708,7 +708,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Tsung-Hsuan Pan, Chung-Chi Chen , Hen-Hsen Huang, Hsin-Hsi Chen. 2024. Why Has the Least Side Effect on Model Editing. arXiv. pdf",
+    "x": "Tsung-Hsuan Pan, Chung-Chi Chen , Hen-Hsen Huang, Hsin-Hsi Chen. 2024. Why Has the Least Side Effect on Model Editing. arXiv.",
     "y": "2024",
     "s": "Preprint",
     "l": {
@@ -716,7 +716,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Yohei Seki, Hakusen Shu, Anais Lhuissier, Juyeon Kang, Hanwool Lee, Min-Yuh Day and Hiroya Takamura. SemEval-2025 Task 6: Multinational, Multilingual, Multi-Industry Promise Verification. In Proceedings of the 19th International Workshop on Semantic Evaluation (SemEval'25). pdf PromiseEval @ SemEval-2025",
+    "x": "Chung-Chi Chen , Yohei Seki, Hakusen Shu, Anais Lhuissier, Juyeon Kang, Hanwool Lee, Min-Yuh Day and Hiroya Takamura. SemEval-2025 Task 6: Multinational, Multilingual, Multi-Industry Promise Verification. In Proceedings of the 19th International Workshop on Semantic Evaluation (SemEval'25).",
     "y": "2025",
     "s": "Overview",
     "l": {
@@ -725,7 +725,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Jian-Tao Huang, Hen-Hsen Huang, Hiroya Takamura, Hsin-Hsi Chen. 2024. SemEval-2024 Task 7: Numeral-Aware Language Understanding and Generation, In Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval'24). pdf NumEval @ SemEval-2024",
+    "x": "Chung-Chi Chen , Jian-Tao Huang, Hen-Hsen Huang, Hiroya Takamura, Hsin-Hsi Chen. 2024. SemEval-2024 Task 7: Numeral-Aware Language Understanding and Generation, In Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval'24).",
     "y": "2024",
     "s": "Overview",
     "l": {
@@ -734,7 +734,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Yu-Min Tseng, Juyeon Kang, Anaïs Lhuissier, Yohei Seki, Hanwool Lee, Min-Yuh Day, Teng-Tsai Tu, and Hsin-Hsi Chen. 2024. Multi-Lingual ESG Impact Duration Inference. In Proceedings of The Joint Workshop of the 7th Financial Technology and Natural Language Processing, the 5th Knowledge Discovery from Unstructured Data in Financial Services, and the 4th Workshop on Economics and Natural Language Processing . pdf",
+    "x": "Chung-Chi Chen , Yu-Min Tseng, Juyeon Kang, Anaïs Lhuissier, Yohei Seki, Hanwool Lee, Min-Yuh Day, Teng-Tsai Tu, and Hsin-Hsi Chen. 2024. Multi-Lingual ESG Impact Duration Inference. In Proceedings of The Joint Workshop of the 7th Financial Technology and Natural Language Processing, the 5th Knowledge Discovery from Unstructured Data in Financial Services, and the 4th Workshop on Economics and Natural Language Processing .",
     "y": "2024",
     "s": "Overview",
     "l": {
@@ -750,7 +750,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Yu-Min Tseng, Juyeon Kang, Anaïs Lhuissier, Yohei Seki, Min-Yuh Day, Teng-Tsai Tu, and Hsin-Hsi Chen. 2023. Multi-Lingual ESG Impact Type Identification. In Proceedings of the Sixth Workshop on Financial Technology and Natural Language Processing (FinNLP'23). pdf",
+    "x": "Chung-Chi Chen , Yu-Min Tseng, Juyeon Kang, Anaïs Lhuissier, Yohei Seki, Min-Yuh Day, Teng-Tsai Tu, and Hsin-Hsi Chen. 2023. Multi-Lingual ESG Impact Type Identification. In Proceedings of the Sixth Workshop on Financial Technology and Natural Language Processing (FinNLP'23).",
     "y": "2023",
     "s": "Overview",
     "l": {
@@ -758,7 +758,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Yu-Min Tseng, Juyeon Kang, Anaïs Lhuissier, Min-Yuh Day, Teng-Tsai Tu, and Hsin-Hsi Chen. 2023. Multi-Lingual ESG Issue Identification. In Proceedings of the Fifth Workshop on Financial Technology and Natural Language Processing and the Second Multimodal AI For Financial Forecasting (FinNLP'23). pdf",
+    "x": "Chung-Chi Chen , Yu-Min Tseng, Juyeon Kang, Anaïs Lhuissier, Min-Yuh Day, Teng-Tsai Tu, and Hsin-Hsi Chen. 2023. Multi-Lingual ESG Issue Identification. In Proceedings of the Fifth Workshop on Financial Technology and Natural Language Processing and the Second Multimodal AI For Financial Forecasting (FinNLP'23).",
     "y": "2023",
     "s": "Overview",
     "l": {
@@ -766,7 +766,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hiroya Takamura, and Hsin-Hsi Chen. 2022. FinTech for Social Good: A Research Agenda from NLP Perspective. arXiv . pdf",
+    "x": "Chung-Chi Chen , Hiroya Takamura, and Hsin-Hsi Chen. 2022. FinTech for Social Good: A Research Agenda from NLP Perspective. arXiv .",
     "y": "2022",
     "s": "Overview",
     "l": {
@@ -774,7 +774,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hen-Hsen Huang, Hiroya Takamura, and Hsin-Hsi Chen. 2022. Overview of the FinNLP-2022 ERAI Task: Evaluating the Rationales of Amateur Investors. In Proceedings of the Fourth Workshop on Financial Technology and Natural Language Processing (FinNLP'22). pdf resource",
+    "x": "Chung-Chi Chen , Hen-Hsen Huang, Hiroya Takamura, and Hsin-Hsi Chen. 2022. Overview of the FinNLP-2022 ERAI Task: Evaluating the Rationales of Amateur Investors. In Proceedings of the Fourth Workshop on Financial Technology and Natural Language Processing (FinNLP'22).",
     "y": "2022",
     "s": "Overview",
     "l": {
@@ -783,7 +783,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hen-Hsen Huang, Hiroya Takamura, and Hsin-Hsi Chen. 2022. An Overview of Financial Technology Innovation. In Companion Proceedings of the The Web Conference (WWW'22). pdf",
+    "x": "Chung-Chi Chen , Hen-Hsen Huang, Hiroya Takamura, and Hsin-Hsi Chen. 2022. An Overview of Financial Technology Innovation. In Companion Proceedings of the The Web Conference (WWW'22).",
     "y": "2022",
     "s": "Overview",
     "l": {
@@ -791,7 +791,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hen-Hsen Huang, Yu-Lieh Huang, Hiroya Takamura, and Hsin-Hsi Chen. 2022. Overview of the NTCIR-16 FinNum-3 Task: Investor’s and Manager’s Fine-grained Claim Detection. In Proceedings of the 16th NTCIR Conference on Evaluation of Information Access Technologies (NTCIR-16). pdf",
+    "x": "Chung-Chi Chen , Hen-Hsen Huang, Yu-Lieh Huang, Hiroya Takamura, and Hsin-Hsi Chen. 2022. Overview of the NTCIR-16 FinNum-3 Task: Investor’s and Manager’s Fine-grained Claim Detection. In Proceedings of the 16th NTCIR Conference on Evaluation of Information Access Technologies (NTCIR-16).",
     "y": "2022",
     "s": "Overview",
     "l": {
@@ -799,7 +799,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2021. Financial Opinion Mining. In EMNLP-2021 . pdf book EMNLP-2021 Tutorial",
+    "x": "Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2021. Financial Opinion Mining. In EMNLP-2021 . EMNLP-2021 Tutorial",
     "y": "2021",
     "s": "Overview",
     "l": {
@@ -809,7 +809,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2020. NLP in FinTech Applications: Past, Present and Future. In arXiv:2005.01320 . pdf arXiv AACL-2020 Tutorial",
+    "x": "Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2020. NLP in FinTech Applications: Past, Present and Future. In arXiv:2005.01320 . AACL-2020 Tutorial",
     "y": "2020",
     "s": "Overview",
     "l": {
@@ -818,7 +818,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hen-Hsen Huang, Hiroya Takamura and Hsin-Hsi Chen. 2020. Overview of the NTCIR-15 FinNum-2 Task: Numeral Attachment in Financial Tweets. In Proceedings of the 15th NTCIR Conference on Evaluation of Information Access Technologies (NTCIR-15). pdf slides poster resource",
+    "x": "Chung-Chi Chen , Hen-Hsen Huang, Hiroya Takamura and Hsin-Hsi Chen. 2020. Overview of the NTCIR-15 FinNum-2 Task: Numeral Attachment in Financial Tweets. In Proceedings of the 15th NTCIR Conference on Evaluation of Information Access Technologies (NTCIR-15).",
     "y": "2020",
     "s": "Overview",
     "l": {
@@ -829,7 +829,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hen-Hsen Huang, Hiroya Takamura and Hsin-Hsi Chen. 2019. Final Report of the NTCIR-14 FinNum Task: Challenges and Current Status of Fine-Grained Numeral Understanding in Financial Social Media Data. Lecture Notes in Computer Science . Springer International Publishing, Switzerland. pdf",
+    "x": "Chung-Chi Chen , Hen-Hsen Huang, Hiroya Takamura and Hsin-Hsi Chen. 2019. Final Report of the NTCIR-14 FinNum Task: Challenges and Current Status of Fine-Grained Numeral Understanding in Financial Social Media Data. Lecture Notes in Computer Science . Springer International Publishing, Switzerland.",
     "y": "2019",
     "s": "Overview",
     "l": {
@@ -837,7 +837,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hen-Hsen Huang, Hiroya Takamura and Hsin-Hsi Chen. 2019. Overview of the NTCIR-14 FinNum Task: Fine-Grained Numeral Understanding in Financial Social Media Data. In Proceedings of the 14th NTCIR Conference on Evaluation of Information Access Technologies (NTCIR-14), Tokyo, Japan. pdf slides poster resource",
+    "x": "Chung-Chi Chen , Hen-Hsen Huang, Hiroya Takamura and Hsin-Hsi Chen. 2019. Overview of the NTCIR-14 FinNum Task: Fine-Grained Numeral Understanding in Financial Social Media Data. In Proceedings of the 14th NTCIR Conference on Evaluation of Information Access Technologies (NTCIR-14), Tokyo, Japan.",
     "y": "2019",
     "s": "Overview",
     "l": {
@@ -848,7 +848,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hiroya Takamura, Ichiro Kobayashi, and Yusuke Miyao. 2024. Enhancing Financial Sentiment Analysis with Expert-Designed Hint. In Proceedings of the International Workshop on Computational Reproducibility in Social Sciences @ ICWSM-2025. pdf",
+    "x": "Chung-Chi Chen , Hiroya Takamura, Ichiro Kobayashi, and Yusuke Miyao. 2024. Enhancing Financial Sentiment Analysis with Expert-Designed Hint. In Proceedings of the International Workshop on Computational Reproducibility in Social Sciences @ ICWSM-2025.",
     "y": "2024",
     "s": "Workshop",
     "l": {
@@ -856,7 +856,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2023. Exploration Reduction by Selecting a Hierarchical Order of Implicit Author Demographic Characterizations. In Proceedings of the 1st International Workshop on Implicit Author Characterization from Texts for Search and Retrieval @ SIGIR-2023. pdf",
+    "x": "Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2023. Exploration Reduction by Selecting a Hierarchical Order of Implicit Author Demographic Characterizations. In Proceedings of the 1st International Workshop on Implicit Author Characterization from Texts for Search and Retrieval @ SIGIR-2023.",
     "y": "2023",
     "s": "Workshop",
     "l": {
@@ -864,7 +864,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Pei-Wei Kao, Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2020. NTUNLPL at FinCausal 2020, Task 2: Improving Causality Detection Using Viterbi Decoder. In Proceedings of the 1st Joint Workshop on Financial Narrative Processing and MultiLing Financial Summarisation @ COLING-2020 pdf",
+    "x": "Pei-Wei Kao, Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2020. NTUNLPL at FinCausal 2020, Task 2: Improving Causality Detection Using Viterbi Decoder. In Proceedings of the 1st Joint Workshop on Financial Narrative Processing and MultiLing Financial Summarisation @ COLING-2020",
     "y": "2020",
     "s": "Workshop",
     "l": {
@@ -872,7 +872,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2018. NTUSD-Fin: A Market Sentiment Dictionary for Financial Social Media Data Applications. In Proceedings of the 1st Financial Narrative Processing Workshop @ LREC-2018 . pdf resource",
+    "x": "Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2018. NTUSD-Fin: A Market Sentiment Dictionary for Financial Social Media Data Applications. In Proceedings of the 1st Financial Narrative Processing Workshop @ LREC-2018 .",
     "y": "2018",
     "s": "Workshop",
     "l": {
@@ -881,7 +881,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2018. Fine-Grained Analysis of Financial Tweets. In Companion Proceedings of the The Web Conference (WWW’18), pages 1943-1949, Lyon, France. pdf slides",
+    "x": "Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2018. Fine-Grained Analysis of Financial Tweets. In Companion Proceedings of the The Web Conference (WWW’18), pages 1943-1949, Lyon, France.",
     "y": "2018",
     "s": "Workshop",
     "l": {
@@ -890,7 +890,7 @@ const PUBLICATIONS = [
     }
   },
   {
-    "x": "Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2017. NLG301 at SemEval-2017 Task 5: Fine-Grained Sentiment Analysis on Financial Microblogs and News. In Proceedings of the 11th International Workshop on Semantic Evaluation (SemEval 2017), Vancouver, Canada. pdf poster",
+    "x": "Chung-Chi Chen , Hen-Hsen Huang, and Hsin-Hsi Chen. 2017. NLG301 at SemEval-2017 Task 5: Fine-Grained Sentiment Analysis on Financial Microblogs and News. In Proceedings of the 11th International Workshop on Semantic Evaluation (SemEval 2017), Vancouver, Canada.",
     "y": "2017",
     "s": "Workshop",
     "l": {
